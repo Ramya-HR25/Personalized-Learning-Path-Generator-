@@ -1,0 +1,343 @@
+{
+  "courseName": "Advanced Data Structures",
+  "workspaces": {
+    "Job preparation": {
+      "Beginner": [
+        {
+          "question": "What is the time complexity of accessing an element in an array?",
+          "options": ["O(n)", "O(log n)", "O(1)", "O(n log n)"],
+          "answer": "O(1)"
+        },
+        {
+          "question": "Which data structure uses FIFO?",
+          "options": ["Stack", "Queue", "Tree", "Graph"],
+          "answer": "Queue"
+        },
+        {
+          "question": "Which data structure uses LIFO?",
+          "options": ["Queue", "Stack", "Heap", "Graph"],
+          "answer": "Stack"
+        },
+        {
+          "question": "What is a linked list?",
+          "options": ["Contiguous memory", "Nodes connected by pointers", "Sorted array", "Tree structure"],
+          "answer": "Nodes connected by pointers"
+        },
+        {
+          "question": "Which operation is fastest in a hash table?",
+          "options": ["Search", "Traversal", "Sorting", "Merging"],
+          "answer": "Search"
+        },
+        {
+          "question": "Which data structure is best for recursion?",
+          "options": ["Queue", "Stack", "Heap", "Tree"],
+          "answer": "Stack"
+        },
+        {
+          "question": "What is the root node?",
+          "options": ["Leaf node", "Top node of tree", "Middle node", "Bottom node"],
+          "answer": "Top node of tree"
+        },
+        {
+          "question": "Which structure has parent-child relation?",
+          "options": ["Array", "Linked List", "Tree", "Stack"],
+          "answer": "Tree"
+        },
+        {
+          "question": "Which traversal visits root first?",
+          "options": ["Inorder", "Postorder", "Preorder", "Level order"],
+          "answer": "Preorder"
+        },
+        {
+          "question": "Binary tree max children?",
+          "options": ["1", "2", "3", "Unlimited"],
+          "answer": "2"
+        },
+        {
+          "question": "What is a leaf node?",
+          "options": ["Root", "Node with no children", "Middle node", "Parent node"],
+          "answer": "Node with no children"
+        },
+        {
+          "question": "Queue insertion happens at?",
+          "options": ["Front", "Rear", "Middle", "Random"],
+          "answer": "Rear"
+        },
+        {
+          "question": "Stack deletion happens at?",
+          "options": ["Top", "Bottom", "Middle", "Anywhere"],
+          "answer": "Top"
+        },
+        {
+          "question": "Which structure is linear?",
+          "options": ["Tree", "Graph", "Array", "Heap"],
+          "answer": "Array"
+        },
+        {
+          "question": "Which structure is non-linear?",
+          "options": ["Array", "Stack", "Tree", "Queue"],
+          "answer": "Tree"
+        },
+        {
+          "question": "What is a pointer?",
+          "options": ["Variable storing address", "Integer", "Loop", "Function"],
+          "answer": "Variable storing address"
+        },
+        {
+          "question": "Which structure uses hashing?",
+          "options": ["Array", "Stack", "Hash Table", "Tree"],
+          "answer": "Hash Table"
+        },
+        {
+          "question": "What is collision in hashing?",
+          "options": ["Error", "Two keys same index", "Sorting", "Deletion"],
+          "answer": "Two keys same index"
+        },
+        {
+          "question": "Which structure supports dynamic size?",
+          "options": ["Array", "Linked List", "Matrix", "Stack"],
+          "answer": "Linked List"
+        },
+        {
+          "question": "Which traversal is left-root-right?",
+          "options": ["Preorder", "Postorder", "Inorder", "Level order"],
+          "answer": "Inorder"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "Time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "answer": "O(log n)"
+        },
+        {
+          "question": "Height of balanced BST?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "answer": "O(log n)"
+        },
+        {
+          "question": "AVL tree is?",
+          "options": ["Unbalanced tree", "Self-balancing BST", "Heap", "Graph"],
+          "answer": "Self-balancing BST"
+        },
+        {
+          "question": "Heap is?",
+          "options": ["Sorted array", "Complete binary tree", "Graph", "Linked list"],
+          "answer": "Complete binary tree"
+        },
+        {
+          "question": "Min heap property?",
+          "options": ["Parent ≥ child", "Parent ≤ child", "Random", "Sorted"],
+          "answer": "Parent ≤ child"
+        },
+        {
+          "question": "Max heap property?",
+          "options": ["Parent ≤ child", "Parent ≥ child", "Random", "Sorted"],
+          "answer": "Parent ≥ child"
+        },
+        {
+          "question": "Graph traversal BFS uses?",
+          "options": ["Stack", "Queue", "Tree", "Heap"],
+          "answer": "Queue"
+        },
+        {
+          "question": "DFS uses?",
+          "options": ["Queue", "Stack", "Heap", "Tree"],
+          "answer": "Stack"
+        },
+        {
+          "question": "Cycle detection in graph?",
+          "options": ["DFS", "BFS", "Sorting", "Hashing"],
+          "answer": "DFS"
+        },
+        {
+          "question": "Hash table avg complexity?",
+          "options": ["O(n)", "O(log n)", "O(1)", "O(n^2)"],
+          "answer": "O(1)"
+        },
+        {
+          "question": "Rehashing is?",
+          "options": ["Deleting", "Resizing hash table", "Sorting", "Searching"],
+          "answer": "Resizing hash table"
+        },
+        {
+          "question": "Tree height meaning?",
+          "options": ["Nodes count", "Edges longest path", "Leaves", "Roots"],
+          "answer": "Edges longest path"
+        },
+        {
+          "question": "Priority queue uses?",
+          "options": ["Stack", "Heap", "Array", "Tree"],
+          "answer": "Heap"
+        },
+        {
+          "question": "Dijkstra works on?",
+          "options": ["Negative edges", "Positive weights", "Unweighted", "Tree"],
+          "answer": "Positive weights"
+        },
+        {
+          "question": "Adjacency matrix space?",
+          "options": ["O(V)", "O(E)", "O(V^2)", "O(log V)"],
+          "answer": "O(V^2)"
+        },
+        {
+          "question": "Adjacency list space?",
+          "options": ["O(V+E)", "O(V^2)", "O(E^2)", "O(log n)"],
+          "answer": "O(V+E)"
+        },
+        {
+          "question": "Topological sort applies to?",
+          "options": ["Undirected graph", "DAG", "Tree", "Heap"],
+          "answer": "DAG"
+        },
+        {
+          "question": "Balanced tree ensures?",
+          "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+          "answer": "O(log n)"
+        },
+        {
+          "question": "Heap insertion time?",
+          "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+          "answer": "O(log n)"
+        },
+        {
+          "question": "Heap deletion time?",
+          "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+          "answer": "O(log n)"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "Red-Black tree ensures?",
+          "options": ["Strict balance", "Approximate balance", "No balance", "Sorted list"],
+          "answer": "Approximate balance"
+        },
+        {
+          "question": "B-Tree used in?",
+          "options": ["RAM", "Disk storage", "CPU cache", "Stack"],
+          "answer": "Disk storage"
+        },
+        {
+          "question": "Segment tree query time?",
+          "options": ["O(n)", "O(log n)", "O(1)", "O(n log n)"],
+          "answer": "O(log n)"
+        },
+        {
+          "question": "Fenwick tree is?",
+          "options": ["Binary indexed tree", "Heap", "Graph", "Trie"],
+          "answer": "Binary indexed tree"
+        },
+        {
+          "question": "Trie used for?",
+          "options": ["Sorting", "String search", "Graph", "Heap"],
+          "answer": "String search"
+        },
+        {
+          "question": "Suffix tree complexity?",
+          "options": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"],
+          "answer": "O(n)"
+        },
+        {
+          "question": "Persistent DS means?",
+          "options": ["Temporary", "Versioned", "Deleted", "Sorted"],
+          "answer": "Versioned"
+        },
+        {
+          "question": "Union-Find complexity?",
+          "options": ["O(1)", "O(log n)", "Amortized nearly O(1)", "O(n)"],
+          "answer": "Amortized nearly O(1)"
+        },
+        {
+          "question": "Path compression does?",
+          "options": ["Increase height", "Flatten tree", "Delete nodes", "Sort nodes"],
+          "answer": "Flatten tree"
+        },
+        {
+          "question": "Lazy propagation used in?",
+          "options": ["Trie", "Segment tree", "Heap", "Graph"],
+          "answer": "Segment tree"
+        },
+        {
+          "question": "Bloom filter allows?",
+          "options": ["False positives", "False negatives", "Both", "None"],
+          "answer": "False positives"
+        },
+        {
+          "question": "Skip list average search?",
+          "options": ["O(n)", "O(log n)", "O(1)", "O(n^2)"],
+          "answer": "O(log n)"
+        },
+        {
+          "question": "Treap combines?",
+          "options": ["Heap + BST", "Stack + Queue", "Graph + Tree", "Array + List"],
+          "answer": "Heap + BST"
+        },
+        {
+          "question": "K-D tree used for?",
+          "options": ["Sorting", "Spatial data", "Graphs", "Strings"],
+          "answer": "Spatial data"
+        },
+        {
+          "question": "Splay tree advantage?",
+          "options": ["Static", "Self-adjusting", "Balanced fixed", "Slow"],
+          "answer": "Self-adjusting"
+        },
+        {
+          "question": "Amortized analysis used in?",
+          "options": ["Worst case", "Average cost over ops", "Best case", "Random"],
+          "answer": "Average cost over ops"
+        },
+        {
+          "question": "Cartesian tree is?",
+          "options": ["Heap + inorder", "Graph", "Trie", "Stack"],
+          "answer": "Heap + inorder"
+        },
+        {
+          "question": "Heavy-Light decomposition used for?",
+          "options": ["Graphs", "Trees queries", "Sorting", "Hashing"],
+          "answer": "Trees queries"
+        },
+        {
+          "question": "Mo’s algorithm optimizes?",
+          "options": ["Sorting", "Range queries", "Graph traversal", "Searching"],
+          "answer": "Range queries"
+        },
+        {
+          "question": "Suffix array used for?",
+          "options": ["String matching", "Sorting numbers", "Graphs", "Trees"],
+          "answer": "String matching"
+        }
+      ]
+    },
+    "Skill development": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Project development": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Academic learning": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Interview preparation": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Career switch": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Competitive exams": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    }
+  }
+}

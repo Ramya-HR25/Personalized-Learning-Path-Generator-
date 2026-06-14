@@ -1,0 +1,40 @@
+{
+  "courseName": "HTML",
+  "workspaces": {
+    "Job preparation": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Skill development": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Project development": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Academic learning": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Interview preparation": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Career switch": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    },
+    "Competitive exams": {
+      "Beginner": [],
+      "Intermediate": [],
+      "Advanced": []
+    }
+  }
+}

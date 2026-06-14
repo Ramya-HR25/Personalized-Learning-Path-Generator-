@@ -1,0 +1,2260 @@
+{
+  "courseName": "Advanced Computer Networks",
+  "workspaces": {
+    "Job preparation": {
+      "Beginner": [
+        {
+          "question": "What does TCP stand for?",
+          "options": [
+            "Transmission Control Protocol",
+            "Transfer Communication Process",
+            "Transport Connection Protocol",
+            "Transmission Communication Process"
+          ],
+          "answer": "Transmission Control Protocol"
+        },
+        {
+          "question": "Which layer is responsible for routing?",
+          "options": [
+            "Transport",
+            "Network",
+            "Session",
+            "Data Link"
+          ],
+          "answer": "Network"
+        },
+        {
+          "question": "What is an IP address?",
+          "options": [
+            "Unique device identifier",
+            "Website name",
+            "Protocol",
+            "Cable type"
+          ],
+          "answer": "Unique device identifier"
+        },
+        {
+          "question": "Which protocol is used for web browsing?",
+          "options": [
+            "FTP",
+            "HTTP",
+            "SMTP",
+            "SNMP"
+          ],
+          "answer": "HTTP"
+        },
+        {
+          "question": "Which device connects different networks?",
+          "options": [
+            "Switch",
+            "Router",
+            "Hub",
+            "Repeater"
+          ],
+          "answer": "Router"
+        },
+        {
+          "question": "What is DNS used for?",
+          "options": [
+            "IP routing",
+            "Domain name resolution",
+            "Email transfer",
+            "Encryption"
+          ],
+          "answer": "Domain name resolution"
+        },
+        {
+          "question": "Which layer handles error detection?",
+          "options": [
+            "Application",
+            "Data Link",
+            "Session",
+            "Presentation"
+          ],
+          "answer": "Data Link"
+        },
+        {
+          "question": "What is HTTP status code 404?",
+          "options": [
+            "OK",
+            "Not Found",
+            "Forbidden",
+            "Server Error"
+          ],
+          "answer": "Not Found"
+        },
+        {
+          "question": "Which protocol is connectionless?",
+          "options": [
+            "TCP",
+            "UDP",
+            "HTTP",
+            "FTP"
+          ],
+          "answer": "UDP"
+        },
+        {
+          "question": "What is bandwidth?",
+          "options": [
+            "Speed of CPU",
+            "Data transfer capacity",
+            "Memory size",
+            "IP range"
+          ],
+          "answer": "Data transfer capacity"
+        },
+        {
+          "question": "Which layer encrypts data?",
+          "options": [
+            "Presentation",
+            "Network",
+            "Transport",
+            "Data Link"
+          ],
+          "answer": "Presentation"
+        },
+        {
+          "question": "What is MAC address?",
+          "options": [
+            "Logical address",
+            "Physical address",
+            "IP alias",
+            "Network name"
+          ],
+          "answer": "Physical address"
+        },
+        {
+          "question": "Which protocol sends emails?",
+          "options": [
+            "SMTP",
+            "HTTP",
+            "FTP",
+            "TCP"
+          ],
+          "answer": "SMTP"
+        },
+        {
+          "question": "Which device forwards frames?",
+          "options": [
+            "Router",
+            "Switch",
+            "Gateway",
+            "Modem"
+          ],
+          "answer": "Switch"
+        },
+        {
+          "question": "What is latency?",
+          "options": [
+            "Delay in transmission",
+            "Data size",
+            "IP address",
+            "Packet type"
+          ],
+          "answer": "Delay in transmission"
+        },
+        {
+          "question": "What is subnetting?",
+          "options": [
+            "Dividing networks",
+            "Merging networks",
+            "Encrypting data",
+            "Routing packets"
+          ],
+          "answer": "Dividing networks"
+        },
+        {
+          "question": "Which layer handles end-to-end communication?",
+          "options": [
+            "Transport",
+            "Network",
+            "Session",
+            "Application"
+          ],
+          "answer": "Transport"
+        },
+        {
+          "question": "What is FTP used for?",
+          "options": [
+            "Email",
+            "File transfer",
+            "Web browsing",
+            "Routing"
+          ],
+          "answer": "File transfer"
+        },
+        {
+          "question": "What is a packet?",
+          "options": [
+            "Data unit",
+            "Cable",
+            "Protocol",
+            "Device"
+          ],
+          "answer": "Data unit"
+        },
+        {
+          "question": "Which protocol is secure HTTP?",
+          "options": [
+            "HTTPS",
+            "SFTP",
+            "SMTP",
+            "TCP"
+          ],
+          "answer": "HTTPS"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is NAT used for?",
+          "options": ["Encryption", "IP translation", "Routing", "Switching"],
+          "answer": "IP translation"
+        },
+        {
+          "question": "Which protocol is used for secure shell access?",
+          "options": ["SSH", "HTTP", "FTP", "SNMP"],
+          "answer": "SSH"
+        },
+        {
+          "question": "What is VLAN?",
+          "options": ["Virtual LAN", "Variable Link", "Virtual Loop", "Value LAN"],
+          "answer": "Virtual LAN"
+        },
+        {
+          "question": "Which algorithm is used in routing?",
+          "options": ["Dijkstra", "Binary Search", "Quick Sort", "Merge Sort"],
+          "answer": "Dijkstra"
+        },
+        {
+          "question": "What is ARP?",
+          "options": ["Address Resolution Protocol", "Advanced Routing Process", "Application Routing Protocol", "Access Resolution Process"],
+          "answer": "Address Resolution Protocol"
+        },
+        {
+          "question": "Which protocol is used in VoIP?",
+          "options": ["SIP", "HTTP", "FTP", "DNS"],
+          "answer": "SIP"
+        },
+        {
+          "question": "What is MTU?",
+          "options": ["Max Transmission Unit", "Minimum Transfer Unit", "Medium Transfer Unit", "Max Transport Utility"],
+          "answer": "Max Transmission Unit"
+        },
+        {
+          "question": "Which protocol uses port 443?",
+          "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+          "answer": "HTTPS"
+        },
+        {
+          "question": "What is congestion control?",
+          "options": ["Avoid network overload", "Increase speed", "Encrypt data", "Route packets"],
+          "answer": "Avoid network overload"
+        },
+        {
+          "question": "What is ICMP used for?",
+          "options": ["Error reporting", "File transfer", "Email sending", "Encryption"],
+          "answer": "Error reporting"
+        },
+        {
+          "question": "Which routing protocol is distance vector?",
+          "options": ["RIP", "OSPF", "BGP", "IS-IS"],
+          "answer": "RIP"
+        },
+        {
+          "question": "What is jitter?",
+          "options": ["Delay variation", "Packet loss", "Bandwidth", "Error rate"],
+          "answer": "Delay variation"
+        },
+        {
+          "question": "Which protocol resolves MAC from IP?",
+          "options": ["ARP", "DNS", "ICMP", "TCP"],
+          "answer": "ARP"
+        },
+        {
+          "question": "What is QoS?",
+          "options": ["Quality of Service", "Queue of System", "Quick Service", "Query System"],
+          "answer": "Quality of Service"
+        },
+        {
+          "question": "Which protocol is used for routing between autonomous systems?",
+          "options": ["BGP", "RIP", "OSPF", "ICMP"],
+          "answer": "BGP"
+        },
+        {
+          "question": "What is tunneling?",
+          "options": ["Encapsulation", "Routing", "Switching", "Encryption"],
+          "answer": "Encapsulation"
+        },
+        {
+          "question": "What is a firewall?",
+          "options": ["Security system", "Router", "Switch", "Cable"],
+          "answer": "Security system"
+        },
+        {
+          "question": "Which layer uses ports?",
+          "options": ["Transport", "Network", "Session", "Application"],
+          "answer": "Transport"
+        },
+        {
+          "question": "What is packet switching?",
+          "options": ["Data split into packets", "Circuit-based transmission", "Analog transmission", "Encryption"],
+          "answer": "Data split into packets"
+        },
+        {
+          "question": "Which protocol uses UDP?",
+          "options": ["DNS", "FTP", "HTTP", "TCP"],
+          "answer": "DNS"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "Which protocol is used in MPLS?",
+          "options": ["Label switching", "Packet switching", "Circuit switching", "Frame relay"],
+          "answer": "Label switching"
+        },
+        {
+          "question": "What is SDN?",
+          "options": ["Software Defined Networking", "Secure Data Network", "System Data Network", "Switch Data Network"],
+          "answer": "Software Defined Networking"
+        },
+        {
+          "question": "Which protocol supports path vector routing?",
+          "options": ["BGP", "RIP", "OSPF", "EIGRP"],
+          "answer": "BGP"
+        },
+        {
+          "question": "What is OpenFlow?",
+          "options": ["SDN protocol", "Routing algorithm", "Encryption method", "Transport protocol"],
+          "answer": "SDN protocol"
+        },
+        {
+          "question": "Which technique prevents congestion?",
+          "options": ["Traffic shaping", "Routing", "Switching", "Encapsulation"],
+          "answer": "Traffic shaping"
+        },
+        {
+          "question": "What is DiffServ?",
+          "options": ["QoS architecture", "Routing protocol", "Security model", "Encryption technique"],
+          "answer": "QoS architecture"
+        },
+        {
+          "question": "What is network virtualization?",
+          "options": ["Abstracting network resources", "Routing packets", "Switching frames", "Encrypting data"],
+          "answer": "Abstracting network resources"
+        },
+        {
+          "question": "Which protocol is used in IoT?",
+          "options": ["MQTT", "HTTP", "FTP", "SMTP"],
+          "answer": "MQTT"
+        },
+        {
+          "question": "What is VXLAN?",
+          "options": ["Overlay network", "Routing protocol", "Encryption method", "Firewall"],
+          "answer": "Overlay network"
+        },
+        {
+          "question": "What is Zero Trust?",
+          "options": ["Security model", "Routing protocol", "Switching method", "QoS technique"],
+          "answer": "Security model"
+        },
+        {
+          "question": "Which algorithm is used in congestion avoidance?",
+          "options": ["AIMD", "DFS", "BFS", "Greedy"],
+          "answer": "AIMD"
+        },
+        {
+          "question": "What is NFV?",
+          "options": ["Network Function Virtualization", "Network Flow Validation", "New Function Value", "Node Function Virtualization"],
+          "answer": "Network Function Virtualization"
+        },
+        {
+          "question": "Which protocol is used for time synchronization?",
+          "options": ["NTP", "FTP", "HTTP", "SMTP"],
+          "answer": "NTP"
+        },
+        {
+          "question": "What is ECN?",
+          "options": ["Explicit Congestion Notification", "Error Control Network", "External Control Node", "Efficient Communication Network"],
+          "answer": "Explicit Congestion Notification"
+        },
+        {
+          "question": "What is SRv6?",
+          "options": ["Segment Routing over IPv6", "Secure Routing v6", "Switch Routing v6", "Service Routing v6"],
+          "answer": "Segment Routing over IPv6"
+        },
+        {
+          "question": "What is control plane?",
+          "options": ["Routing decisions", "Data forwarding", "Encryption", "Switching"],
+          "answer": "Routing decisions"
+        },
+        {
+          "question": "What is data plane?",
+          "options": ["Packet forwarding", "Routing decisions", "Encryption", "Control signals"],
+          "answer": "Packet forwarding"
+        },
+        {
+          "question": "What is QUIC?",
+          "options": ["Transport protocol", "Routing protocol", "Encryption method", "Switching technique"],
+          "answer": "Transport protocol"
+        },
+        {
+          "question": "What is edge computing?",
+          "options": ["Processing near source", "Cloud computing", "Centralized processing", "Routing"],
+          "answer": "Processing near source"
+        },
+        {
+          "question": "What is intent-based networking?",
+          "options": ["Policy-driven automation", "Manual configuration", "Routing method", "Switching technique"],
+          "answer": "Policy-driven automation"
+        }
+      ]
+    },
+    "Skill development": {
+      "Beginner": [{
+          "question": "What does LAN stand for?",
+          "options": ["Local Area Network", "Large Area Network", "Long Area Network", "Limited Area Network"],
+          "answer": "Local Area Network"
+        },
+        {
+          "question": "Which device operates at Layer 2?",
+          "options": ["Router", "Switch", "Gateway", "Firewall"],
+          "answer": "Switch"
+        },
+        {
+          "question": "Which protocol assigns IP addresses automatically?",
+          "options": ["DNS", "DHCP", "FTP", "SMTP"],
+          "answer": "DHCP"
+        },
+        {
+          "question": "What is a subnet mask used for?",
+          "options": ["Encryption", "Network division", "Routing", "Switching"],
+          "answer": "Network division"
+        },
+        {
+          "question": "Which topology uses a central hub?",
+          "options": ["Ring", "Bus", "Star", "Mesh"],
+          "answer": "Star"
+        },
+        {
+          "question": "Which protocol is used to send email?",
+          "options": ["SMTP", "HTTP", "FTP", "SNMP"],
+          "answer": "SMTP"
+        },
+        {
+          "question": "What is the default port of HTTP?",
+          "options": ["21", "25", "80", "443"],
+          "answer": "80"
+        },
+        {
+          "question": "Which cable is commonly used in Ethernet?",
+          "options": ["Coaxial", "Fiber", "Twisted Pair", "All of these"],
+          "answer": "All of these"
+        },
+        {
+          "question": "What is a router used for?",
+          "options": ["Connecting networks", "Amplifying signal", "Encrypting data", "Storing data"],
+          "answer": "Connecting networks"
+        },
+        {
+          "question": "Which layer is responsible for user interaction?",
+          "options": ["Application", "Transport", "Network", "Data Link"],
+          "answer": "Application"
+        },
+        {
+          "question": "Which protocol is used for file transfer?",
+          "options": ["FTP", "HTTP", "SMTP", "ICMP"],
+          "answer": "FTP"
+        },
+        {
+          "question": "What is a hub?",
+          "options": ["Smart device", "Broadcast device", "Router", "Firewall"],
+          "answer": "Broadcast device"
+        },
+        {
+          "question": "Which addressing is logical?",
+          "options": ["MAC", "IP", "Port", "None"],
+          "answer": "IP"
+        },
+        {
+          "question": "What is IPv4 size?",
+          "options": ["32-bit", "64-bit", "128-bit", "16-bit"],
+          "answer": "32-bit"
+        },
+        {
+          "question": "Which protocol checks connectivity?",
+          "options": ["ICMP", "FTP", "SMTP", "HTTP"],
+          "answer": "ICMP"
+        },
+        {
+          "question": "What is DNS?",
+          "options": ["Name resolution", "Routing", "Switching", "Encryption"],
+          "answer": "Name resolution"
+        },
+        {
+          "question": "Which device filters traffic?",
+          "options": ["Firewall", "Hub", "Repeater", "Cable"],
+          "answer": "Firewall"
+        },
+        {
+          "question": "What is bandwidth?",
+          "options": ["Speed of data", "Cable type", "IP address", "Protocol"],
+          "answer": "Speed of data"
+        },
+        {
+          "question": "Which OSI layer handles framing?",
+          "options": ["Data Link", "Transport", "Session", "Network"],
+          "answer": "Data Link"
+        },
+        {
+          "question": "What is a protocol?",
+          "options": ["Rules for communication", "Device", "Cable", "Software"],
+          "answer": "Rules for communication"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is NAT?",
+          "options": ["Address translation", "Encryption", "Routing", "Switching"],
+          "answer": "Address translation"
+        },
+        {
+          "question": "Which protocol is used for remote login?",
+          "options": ["SSH", "HTTP", "FTP", "SMTP"],
+          "answer": "SSH"
+        },
+        {
+          "question": "What is VLAN used for?",
+          "options": ["Segmentation", "Routing", "Encryption", "Switching"],
+          "answer": "Segmentation"
+        },
+        {
+          "question": "Which protocol uses port 53?",
+          "options": ["DNS", "HTTP", "FTP", "SMTP"],
+          "answer": "DNS"
+        },
+        {
+          "question": "What is routing table?",
+          "options": ["Path info", "Switch info", "Cable data", "Encryption key"],
+          "answer": "Path info"
+        },
+        {
+          "question": "Which protocol is connection-oriented?",
+          "options": ["TCP", "UDP", "ICMP", "ARP"],
+          "answer": "TCP"
+        },
+        {
+          "question": "What is packet loss?",
+          "options": ["Dropped packets", "Extra packets", "Delayed packets", "Encrypted packets"],
+          "answer": "Dropped packets"
+        },
+        {
+          "question": "Which protocol uses port 22?",
+          "options": ["SSH", "HTTP", "FTP", "DNS"],
+          "answer": "SSH"
+        },
+        {
+          "question": "What is jitter?",
+          "options": ["Delay variation", "Packet loss", "Speed", "Error rate"],
+          "answer": "Delay variation"
+        },
+        {
+          "question": "Which protocol sends control messages?",
+          "options": ["ICMP", "FTP", "SMTP", "HTTP"],
+          "answer": "ICMP"
+        },
+        {
+          "question": "Which routing protocol is link-state?",
+          "options": ["OSPF", "RIP", "BGP", "EIGRP"],
+          "answer": "OSPF"
+        },
+        {
+          "question": "What is encapsulation?",
+          "options": ["Wrapping data", "Routing", "Encryption", "Switching"],
+          "answer": "Wrapping data"
+        },
+        {
+          "question": "Which protocol is used for SNMP monitoring?",
+          "options": ["SNMP", "HTTP", "FTP", "DNS"],
+          "answer": "SNMP"
+        },
+        {
+          "question": "What is throughput?",
+          "options": ["Actual data transfer", "Speed", "Latency", "Error"],
+          "answer": "Actual data transfer"
+        },
+        {
+          "question": "Which protocol resolves IP to MAC?",
+          "options": ["ARP", "DNS", "ICMP", "TCP"],
+          "answer": "ARP"
+        },
+        {
+          "question": "What is QoS?",
+          "options": ["Quality of Service", "Queue System", "Quick Service", "Query Service"],
+          "answer": "Quality of Service"
+        },
+        {
+          "question": "Which protocol is used in email receiving?",
+          "options": ["POP3", "SMTP", "HTTP", "FTP"],
+          "answer": "POP3"
+        },
+        {
+          "question": "What is congestion?",
+          "options": ["Network overload", "Packet loss", "Delay", "Error"],
+          "answer": "Network overload"
+        },
+        {
+          "question": "Which protocol uses UDP?",
+          "options": ["DNS", "FTP", "TCP", "HTTP"],
+          "answer": "DNS"
+        },
+        {
+          "question": "What is firewall rule?",
+          "options": ["Traffic filter rule", "Routing table", "IP address", "Protocol"],
+          "answer": "Traffic filter rule"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is SDN?",
+          "options": ["Software Defined Networking", "Secure Data Network", "System Data Network", "Switch Data Network"],
+          "answer": "Software Defined Networking"
+        },
+        {
+          "question": "Which protocol is used in BGP?",
+          "options": ["Path vector", "Distance vector", "Link state", "Hybrid"],
+          "answer": "Path vector"
+        },
+        {
+          "question": "What is MPLS?",
+          "options": ["Label switching", "Packet switching", "Circuit switching", "Frame relay"],
+          "answer": "Label switching"
+        },
+        {
+          "question": "What is NFV?",
+          "options": ["Network Function Virtualization", "New Function Value", "Node Function Virtualization", "Network Flow Validation"],
+          "answer": "Network Function Virtualization"
+        },
+        {
+          "question": "Which protocol is used in IoT?",
+          "options": ["MQTT", "HTTP", "FTP", "SMTP"],
+          "answer": "MQTT"
+        },
+        {
+          "question": "What is VXLAN?",
+          "options": ["Overlay network", "Routing protocol", "Encryption", "Firewall"],
+          "answer": "Overlay network"
+        },
+        {
+          "question": "What is Zero Trust?",
+          "options": ["Security model", "Routing", "Switching", "QoS"],
+          "answer": "Security model"
+        },
+        {
+          "question": "What is ECN?",
+          "options": ["Explicit Congestion Notification", "Error Control Network", "External Control Node", "Efficient Communication Network"],
+          "answer": "Explicit Congestion Notification"
+        },
+        {
+          "question": "Which protocol is used for time sync?",
+          "options": ["NTP", "FTP", "HTTP", "SMTP"],
+          "answer": "NTP"
+        },
+        {
+          "question": "What is QUIC?",
+          "options": ["Transport protocol", "Routing protocol", "Encryption", "Switching"],
+          "answer": "Transport protocol"
+        },
+        {
+          "question": "What is edge computing?",
+          "options": ["Processing near source", "Cloud", "Centralized", "Routing"],
+          "answer": "Processing near source"
+        },
+        {
+          "question": "What is traffic shaping?",
+          "options": ["Control bandwidth", "Routing", "Switching", "Encryption"],
+          "answer": "Control bandwidth"
+        },
+        {
+          "question": "What is control plane?",
+          "options": ["Routing decisions", "Forwarding", "Encryption", "Switching"],
+          "answer": "Routing decisions"
+        },
+        {
+          "question": "What is data plane?",
+          "options": ["Packet forwarding", "Routing decisions", "Encryption", "Control"],
+          "answer": "Packet forwarding"
+        },
+        {
+          "question": "What is SRv6?",
+          "options": ["Segment Routing IPv6", "Secure Routing", "Switch Routing", "Service Routing"],
+          "answer": "Segment Routing IPv6"
+        },
+        {
+          "question": "What is DiffServ?",
+          "options": ["QoS model", "Routing protocol", "Encryption", "Switching"],
+          "answer": "QoS model"
+        },
+        {
+          "question": "Which algorithm is used in congestion avoidance?",
+          "options": ["AIMD", "DFS", "BFS", "Greedy"],
+          "answer": "AIMD"
+        },
+        {
+          "question": "What is intent-based networking?",
+          "options": ["Policy automation", "Manual config", "Routing", "Switching"],
+          "answer": "Policy automation"
+        },
+        {
+          "question": "What is network slicing?",
+          "options": ["Virtual network partition", "Routing", "Switching", "Encryption"],
+          "answer": "Virtual network partition"
+        },
+        {
+          "question": "What is telemetry in networking?",
+          "options": ["Real-time monitoring", "Routing", "Switching", "Encryption"],
+          "answer": "Real-time monitoring"
+        }
+      ]
+    },
+    "Project development": {
+      "Beginner": [
+        {
+          "question": "What is a network project?",
+          "options": ["Implementation of networking solution", "Programming task", "Database task", "Hardware repair"],
+          "answer": "Implementation of networking solution"
+        },
+        {
+          "question": "Which tool is used to simulate networks?",
+          "options": ["Packet Tracer", "Photoshop", "Excel", "AutoCAD"],
+          "answer": "Packet Tracer"
+        },
+        {
+          "question": "What is topology design?",
+          "options": ["Network layout", "Routing", "Encryption", "Switching"],
+          "answer": "Network layout"
+        },
+        {
+          "question": "Which device is used in basic project setup?",
+          "options": ["Router", "Printer", "Scanner", "Camera"],
+          "answer": "Router"
+        },
+        {
+          "question": "What is IP planning?",
+          "options": ["Assigning IP addresses", "Routing", "Switching", "Encryption"],
+          "answer": "Assigning IP addresses"
+        },
+        {
+          "question": "Which protocol is used to test connectivity?",
+          "options": ["ICMP", "HTTP", "FTP", "SMTP"],
+          "answer": "ICMP"
+        },
+        {
+          "question": "What is documentation in projects?",
+          "options": ["Project details record", "Routing table", "Switch config", "Cable type"],
+          "answer": "Project details record"
+        },
+        {
+          "question": "Which cable connects devices?",
+          "options": ["Ethernet cable", "USB", "HDMI", "VGA"],
+          "answer": "Ethernet cable"
+        },
+        {
+          "question": "What is configuration?",
+          "options": ["Setting device parameters", "Routing", "Switching", "Testing"],
+          "answer": "Setting device parameters"
+        },
+        {
+          "question": "Which command tests reachability?",
+          "options": ["ping", "copy", "delete", "save"],
+          "answer": "ping"
+        },
+        {
+          "question": "What is subnetting in projects?",
+          "options": ["Dividing network", "Merging network", "Encrypting data", "Routing"],
+          "answer": "Dividing network"
+        },
+        {
+          "question": "Which OS is commonly used in networking labs?",
+          "options": ["Linux", "Windows", "MacOS", "All of these"],
+          "answer": "All of these"
+        },
+        {
+          "question": "What is a switch used for?",
+          "options": ["Connecting devices", "Routing", "Encryption", "Monitoring"],
+          "answer": "Connecting devices"
+        },
+        {
+          "question": "What is project testing?",
+          "options": ["Verifying functionality", "Routing", "Switching", "Encrypting"],
+          "answer": "Verifying functionality"
+        },
+        {
+          "question": "Which protocol is used for web testing?",
+          "options": ["HTTP", "FTP", "SMTP", "ICMP"],
+          "answer": "HTTP"
+        },
+        {
+          "question": "What is a network diagram?",
+          "options": ["Visual layout", "Routing table", "Switch config", "Protocol"],
+          "answer": "Visual layout"
+        },
+        {
+          "question": "Which device connects LAN to WAN?",
+          "options": ["Router", "Switch", "Hub", "Repeater"],
+          "answer": "Router"
+        },
+        {
+          "question": "What is troubleshooting?",
+          "options": ["Finding issues", "Routing", "Switching", "Encryption"],
+          "answer": "Finding issues"
+        },
+        {
+          "question": "What is a server?",
+          "options": ["Service provider machine", "Client device", "Cable", "Protocol"],
+          "answer": "Service provider machine"
+        },
+        {
+          "question": "What is a client?",
+          "options": ["Service requester", "Server", "Router", "Switch"],
+          "answer": "Service requester"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is network automation?",
+          "options": ["Automating configs", "Routing", "Switching", "Encryption"],
+          "answer": "Automating configs"
+        },
+        {
+          "question": "Which tool is used for automation?",
+          "options": ["Ansible", "Excel", "Word", "Photoshop"],
+          "answer": "Ansible"
+        },
+        {
+          "question": "What is VLAN implementation?",
+          "options": ["Network segmentation", "Routing", "Encryption", "Switching"],
+          "answer": "Network segmentation"
+        },
+        {
+          "question": "Which protocol supports secure transfer?",
+          "options": ["HTTPS", "HTTP", "FTP", "Telnet"],
+          "answer": "HTTPS"
+        },
+        {
+          "question": "What is load balancing?",
+          "options": ["Distributing traffic", "Routing", "Switching", "Encryption"],
+          "answer": "Distributing traffic"
+        },
+        {
+          "question": "Which protocol is used for monitoring?",
+          "options": ["SNMP", "HTTP", "FTP", "SMTP"],
+          "answer": "SNMP"
+        },
+        {
+          "question": "What is network scalability?",
+          "options": ["Ability to expand", "Routing", "Switching", "Encryption"],
+          "answer": "Ability to expand"
+        },
+        {
+          "question": "What is redundancy?",
+          "options": ["Backup paths", "Routing", "Switching", "Encryption"],
+          "answer": "Backup paths"
+        },
+        {
+          "question": "Which tool captures packets?",
+          "options": ["Wireshark", "Excel", "Word", "PowerPoint"],
+          "answer": "Wireshark"
+        },
+        {
+          "question": "What is firewall configuration?",
+          "options": ["Security rules setup", "Routing", "Switching", "Encryption"],
+          "answer": "Security rules setup"
+        },
+        {
+          "question": "What is VPN setup?",
+          "options": ["Secure connection", "Routing", "Switching", "Encryption"],
+          "answer": "Secure connection"
+        },
+        {
+          "question": "Which protocol is used in VPN?",
+          "options": ["IPSec", "HTTP", "FTP", "SMTP"],
+          "answer": "IPSec"
+        },
+        {
+          "question": "What is network monitoring?",
+          "options": ["Tracking performance", "Routing", "Switching", "Encryption"],
+          "answer": "Tracking performance"
+        },
+        {
+          "question": "What is QoS configuration?",
+          "options": ["Traffic prioritization", "Routing", "Switching", "Encryption"],
+          "answer": "Traffic prioritization"
+        },
+        {
+          "question": "What is failover?",
+          "options": ["Backup switching", "Routing", "Encryption", "Monitoring"],
+          "answer": "Backup switching"
+        },
+        {
+          "question": "Which protocol is used for dynamic routing?",
+          "options": ["OSPF", "ARP", "ICMP", "HTTP"],
+          "answer": "OSPF"
+        },
+        {
+          "question": "What is port forwarding?",
+          "options": ["Redirecting traffic", "Routing", "Switching", "Encryption"],
+          "answer": "Redirecting traffic"
+        },
+        {
+          "question": "What is access control?",
+          "options": ["Restricting access", "Routing", "Switching", "Encryption"],
+          "answer": "Restricting access"
+        },
+        {
+          "question": "What is network segmentation?",
+          "options": ["Dividing networks", "Routing", "Switching", "Encryption"],
+          "answer": "Dividing networks"
+        },
+        {
+          "question": "What is configuration backup?",
+          "options": ["Saving configs", "Routing", "Switching", "Encryption"],
+          "answer": "Saving configs"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is SDN in projects?",
+          "options": ["Programmable networking", "Routing", "Switching", "Encryption"],
+          "answer": "Programmable networking"
+        },
+        {
+          "question": "Which protocol is used in SDN?",
+          "options": ["OpenFlow", "HTTP", "FTP", "SMTP"],
+          "answer": "OpenFlow"
+        },
+        {
+          "question": "What is NFV deployment?",
+          "options": ["Virtual network functions", "Routing", "Switching", "Encryption"],
+          "answer": "Virtual network functions"
+        },
+        {
+          "question": "What is container networking?",
+          "options": ["Docker networking", "Routing", "Switching", "Encryption"],
+          "answer": "Docker networking"
+        },
+        {
+          "question": "Which tool is used for containers?",
+          "options": ["Docker", "Excel", "Word", "Photoshop"],
+          "answer": "Docker"
+        },
+        {
+          "question": "What is Kubernetes networking?",
+          "options": ["Cluster networking", "Routing", "Switching", "Encryption"],
+          "answer": "Cluster networking"
+        },
+        {
+          "question": "What is service mesh?",
+          "options": ["Microservice communication", "Routing", "Switching", "Encryption"],
+          "answer": "Microservice communication"
+        },
+        {
+          "question": "Which tool is used for orchestration?",
+          "options": ["Kubernetes", "Excel", "Word", "Paint"],
+          "answer": "Kubernetes"
+        },
+        {
+          "question": "What is intent-based networking?",
+          "options": ["Policy automation", "Routing", "Switching", "Encryption"],
+          "answer": "Policy automation"
+        },
+        {
+          "question": "What is telemetry?",
+          "options": ["Real-time data collection", "Routing", "Switching", "Encryption"],
+          "answer": "Real-time data collection"
+        },
+        {
+          "question": "What is network slicing?",
+          "options": ["Virtual partitions", "Routing", "Switching", "Encryption"],
+          "answer": "Virtual partitions"
+        },
+        {
+          "question": "What is edge deployment?",
+          "options": ["Processing near users", "Cloud", "Routing", "Switching"],
+          "answer": "Processing near users"
+        },
+        {
+          "question": "What is automation pipeline?",
+          "options": ["CI/CD networking", "Routing", "Switching", "Encryption"],
+          "answer": "CI/CD networking"
+        },
+        {
+          "question": "What is API-based networking?",
+          "options": ["Programmable interfaces", "Routing", "Switching", "Encryption"],
+          "answer": "Programmable interfaces"
+        },
+        {
+          "question": "What is cloud networking?",
+          "options": ["Virtual networks in cloud", "Routing", "Switching", "Encryption"],
+          "answer": "Virtual networks in cloud"
+        },
+        {
+          "question": "What is hybrid cloud networking?",
+          "options": ["On-prem + cloud", "Routing", "Switching", "Encryption"],
+          "answer": "On-prem + cloud"
+        },
+        {
+          "question": "What is overlay networking?",
+          "options": ["Virtual networks", "Routing", "Switching", "Encryption"],
+          "answer": "Virtual networks"
+        },
+        {
+          "question": "What is Zero Trust architecture?",
+          "options": ["Strict security model", "Routing", "Switching", "Encryption"],
+          "answer": "Strict security model"
+        },
+        {
+          "question": "What is AI in networking?",
+          "options": ["Intelligent automation", "Routing", "Switching", "Encryption"],
+          "answer": "Intelligent automation"
+        },
+        {
+          "question": "What is predictive networking?",
+          "options": ["Forecast issues", "Routing", "Switching", "Encryption"],
+          "answer": "Forecast issues"
+        }
+      ]
+    },
+    "Academic learning": {
+      "Beginner": [
+        {
+          "question": "What does OSI stand for?",
+          "options": ["Open Systems Interconnection", "Operating System Interface", "Open Software Integration", "Optical System Interface"],
+          "answer": "Open Systems Interconnection"
+        },
+        {
+          "question": "How many layers are in the OSI model?",
+          "options": ["5", "6", "7", "8"],
+          "answer": "7"
+        },
+        {
+          "question": "Which layer is responsible for routing?",
+          "options": ["Transport", "Network", "Session", "Presentation"],
+          "answer": "Network"
+        },
+        {
+          "question": "What is TCP?",
+          "options": ["Connection-oriented protocol", "Connectionless protocol", "Routing protocol", "Encryption protocol"],
+          "answer": "Connection-oriented protocol"
+        },
+        {
+          "question": "Which protocol is connectionless?",
+          "options": ["TCP", "UDP", "HTTP", "FTP"],
+          "answer": "UDP"
+        },
+        {
+          "question": "What is an IP address?",
+          "options": ["Unique identifier", "Cable type", "Protocol", "Device"],
+          "answer": "Unique identifier"
+        },
+        {
+          "question": "Which protocol resolves domain names?",
+          "options": ["DNS", "FTP", "SMTP", "ICMP"],
+          "answer": "DNS"
+        },
+        {
+          "question": "Which layer ensures reliable delivery?",
+          "options": ["Transport", "Network", "Application", "Data Link"],
+          "answer": "Transport"
+        },
+        {
+          "question": "What is a packet?",
+          "options": ["Data unit", "Device", "Cable", "Protocol"],
+          "answer": "Data unit"
+        },
+        {
+          "question": "Which protocol is used for web browsing?",
+          "options": ["HTTP", "FTP", "SMTP", "SNMP"],
+          "answer": "HTTP"
+        },
+        {
+          "question": "What is bandwidth?",
+          "options": ["Data capacity", "Delay", "Packet loss", "Protocol"],
+          "answer": "Data capacity"
+        },
+        {
+          "question": "What is latency?",
+          "options": ["Delay", "Speed", "Bandwidth", "Error"],
+          "answer": "Delay"
+        },
+        {
+          "question": "Which layer handles framing?",
+          "options": ["Data Link", "Transport", "Session", "Application"],
+          "answer": "Data Link"
+        },
+        {
+          "question": "What is MAC address?",
+          "options": ["Physical address", "Logical address", "Protocol", "Device"],
+          "answer": "Physical address"
+        },
+        {
+          "question": "Which protocol sends email?",
+          "options": ["SMTP", "HTTP", "FTP", "DNS"],
+          "answer": "SMTP"
+        },
+        {
+          "question": "Which device forwards packets?",
+          "options": ["Router", "Switch", "Hub", "Repeater"],
+          "answer": "Router"
+        },
+        {
+          "question": "What is subnetting?",
+          "options": ["Dividing network", "Merging network", "Encrypting", "Routing"],
+          "answer": "Dividing network"
+        },
+        {
+          "question": "What is a protocol?",
+          "options": ["Rules for communication", "Device", "Cable", "Software"],
+          "answer": "Rules for communication"
+        },
+        {
+          "question": "Which layer interacts with users?",
+          "options": ["Application", "Transport", "Network", "Session"],
+          "answer": "Application"
+        },
+        {
+          "question": "What is HTTPS?",
+          "options": ["Secure HTTP", "File transfer", "Routing protocol", "Email protocol"],
+          "answer": "Secure HTTP"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is NAT?",
+          "options": ["Network Address Translation", "Network Access Tool", "New Address Type", "Node Access Transfer"],
+          "answer": "Network Address Translation"
+        },
+        {
+          "question": "Which protocol is used for secure login?",
+          "options": ["SSH", "HTTP", "FTP", "SMTP"],
+          "answer": "SSH"
+        },
+        {
+          "question": "What is VLAN?",
+          "options": ["Virtual LAN", "Variable LAN", "Virtual Link", "Value LAN"],
+          "answer": "Virtual LAN"
+        },
+        {
+          "question": "Which routing protocol is link-state?",
+          "options": ["OSPF", "RIP", "BGP", "ICMP"],
+          "answer": "OSPF"
+        },
+        {
+          "question": "What is ARP?",
+          "options": ["Address Resolution Protocol", "Advanced Routing Protocol", "Application Routing Protocol", "Access Routing Process"],
+          "answer": "Address Resolution Protocol"
+        },
+        {
+          "question": "Which protocol uses port 80?",
+          "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+          "answer": "HTTP"
+        },
+        {
+          "question": "What is ICMP used for?",
+          "options": ["Error reporting", "File transfer", "Email", "Encryption"],
+          "answer": "Error reporting"
+        },
+        {
+          "question": "Which routing protocol is distance vector?",
+          "options": ["RIP", "OSPF", "BGP", "IS-IS"],
+          "answer": "RIP"
+        },
+        {
+          "question": "What is congestion control?",
+          "options": ["Prevent overload", "Encrypt data", "Routing", "Switching"],
+          "answer": "Prevent overload"
+        },
+        {
+          "question": "Which protocol uses port 443?",
+          "options": ["HTTPS", "HTTP", "FTP", "SMTP"],
+          "answer": "HTTPS"
+        },
+        {
+          "question": "What is jitter?",
+          "options": ["Delay variation", "Packet loss", "Bandwidth", "Error"],
+          "answer": "Delay variation"
+        },
+        {
+          "question": "Which protocol resolves MAC address?",
+          "options": ["ARP", "DNS", "ICMP", "TCP"],
+          "answer": "ARP"
+        },
+        {
+          "question": "What is QoS?",
+          "options": ["Quality of Service", "Queue of System", "Quick Service", "Query Service"],
+          "answer": "Quality of Service"
+        },
+        {
+          "question": "Which protocol is used between autonomous systems?",
+          "options": ["BGP", "RIP", "OSPF", "ICMP"],
+          "answer": "BGP"
+        },
+        {
+          "question": "What is tunneling?",
+          "options": ["Encapsulation", "Routing", "Switching", "Encryption"],
+          "answer": "Encapsulation"
+        },
+        {
+          "question": "What is firewall?",
+          "options": ["Security system", "Router", "Switch", "Cable"],
+          "answer": "Security system"
+        },
+        {
+          "question": "Which layer uses port numbers?",
+          "options": ["Transport", "Network", "Session", "Application"],
+          "answer": "Transport"
+        },
+        {
+          "question": "What is packet switching?",
+          "options": ["Data split into packets", "Circuit communication", "Analog transfer", "Encryption"],
+          "answer": "Data split into packets"
+        },
+        {
+          "question": "Which protocol uses UDP?",
+          "options": ["DNS", "FTP", "HTTP", "TCP"],
+          "answer": "DNS"
+        },
+        {
+          "question": "What is throughput?",
+          "options": ["Actual data rate", "Delay", "Packet loss", "Protocol"],
+          "answer": "Actual data rate"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "Which routing protocol is based on link-state algorithm?",
+          "options": ["OSPF", "RIP", "BGP", "IGRP"],
+          "answer": "OSPF"
+        },
+        {
+          "question": "What is the main function of BGP?",
+          "options": ["Inter-domain routing", "Intra-domain routing", "Error detection", "Encryption"],
+          "answer": "Inter-domain routing"
+        },
+        {
+          "question": "Which congestion control algorithm is used in TCP?",
+          "options": ["AIMD", "DFS", "BFS", "Greedy"],
+          "answer": "AIMD"
+        },
+        {
+          "question": "What is the purpose of MPLS?",
+          "options": ["Efficient packet forwarding", "Encryption", "Switching frames", "Error detection"],
+          "answer": "Efficient packet forwarding"
+        },
+        {
+          "question": "What is the function of the transport layer?",
+          "options": ["End-to-end communication", "Routing", "Framing", "Encryption"],
+          "answer": "End-to-end communication"
+        },
+        {
+          "question": "Which protocol is used for secure key exchange?",
+          "options": ["Diffie-Hellman", "HTTP", "FTP", "ICMP"],
+          "answer": "Diffie-Hellman"
+        },
+        {
+          "question": "What is the purpose of ARQ protocols?",
+          "options": ["Error control", "Routing", "Switching", "Encryption"],
+          "answer": "Error control"
+        },
+        {
+          "question": "Which type of switching establishes a dedicated path?",
+          "options": ["Circuit switching", "Packet switching", "Frame relay", "Cell switching"],
+          "answer": "Circuit switching"
+        },
+        {
+          "question": "What is the role of DNS in networking?",
+          "options": ["Domain name resolution", "Routing", "Switching", "Encryption"],
+          "answer": "Domain name resolution"
+        },
+        {
+          "question": "Which protocol uses three-way handshake?",
+          "options": ["TCP", "UDP", "ICMP", "ARP"],
+          "answer": "TCP"
+        },
+        {
+          "question": "What is network throughput?",
+          "options": ["Actual data transfer rate", "Delay", "Error rate", "Packet loss"],
+          "answer": "Actual data transfer rate"
+        },
+        {
+          "question": "Which algorithm is used in shortest path routing?",
+          "options": ["Dijkstra", "Kruskal", "Prim", "Bellman-Ford"],
+          "answer": "Dijkstra"
+        },
+        {
+          "question": "What is the purpose of NAT?",
+          "options": ["IP address translation", "Encryption", "Routing", "Switching"],
+          "answer": "IP address translation"
+        },
+        {
+          "question": "What is QoS in networking?",
+          "options": ["Traffic prioritization", "Routing", "Switching", "Encryption"],
+          "answer": "Traffic prioritization"
+        },
+        {
+          "question": "Which protocol is used for time synchronization?",
+          "options": ["NTP", "HTTP", "FTP", "SMTP"],
+          "answer": "NTP"
+        },
+        {
+          "question": "What is jitter in networking?",
+          "options": ["Variation in delay", "Packet loss", "Bandwidth", "Throughput"],
+          "answer": "Variation in delay"
+        },
+        {
+          "question": "What is the function of ICMP?",
+          "options": ["Error reporting", "File transfer", "Email sending", "Encryption"],
+          "answer": "Error reporting"
+        },
+        {
+          "question": "Which protocol is used in secure web communication?",
+          "options": ["HTTPS", "HTTP", "FTP", "Telnet"],
+          "answer": "HTTPS"
+        },
+        {
+          "question": "What is SDN?",
+          "options": ["Software Defined Networking", "Secure Data Network", "Switch Data Network", "System Data Network"],
+          "answer": "Software Defined Networking"
+        },
+        {
+          "question": "What is the purpose of network virtualization?",
+          "options": ["Abstract network resources", "Routing", "Switching", "Encryption"],
+          "answer": "Abstract network resources"
+        }
+      ]
+    },
+    "Interview preparation": {
+      "Beginner": [
+        {
+          "question": "What is the full form of TCP?",
+          "options": ["Transmission Control Protocol", "Transfer Control Process", "Transport Communication Protocol", "Transmission Communication Process"],
+          "answer": "Transmission Control Protocol"
+        },
+        {
+          "question": "Which layer handles routing?",
+          "options": ["Network", "Transport", "Session", "Application"],
+          "answer": "Network"
+        },
+        {
+          "question": "What is an IP address?",
+          "options": ["Logical address", "Physical address", "Port number", "Protocol"],
+          "answer": "Logical address"
+        },
+        {
+          "question": "Which protocol is used for web browsing?",
+          "options": ["HTTP", "FTP", "SMTP", "SNMP"],
+          "answer": "HTTP"
+        },
+        {
+          "question": "Which device connects different networks?",
+          "options": ["Router", "Switch", "Hub", "Repeater"],
+          "answer": "Router"
+        },
+        {
+          "question": "What is DNS used for?",
+          "options": ["Domain resolution", "Routing", "Switching", "Encryption"],
+          "answer": "Domain resolution"
+        },
+        {
+          "question": "Which protocol is connectionless?",
+          "options": ["UDP", "TCP", "HTTP", "FTP"],
+          "answer": "UDP"
+        },
+        {
+          "question": "What is bandwidth?",
+          "options": ["Data transfer capacity", "Delay", "Error rate", "Packet size"],
+          "answer": "Data transfer capacity"
+        },
+        {
+          "question": "What is a MAC address?",
+          "options": ["Physical address", "Logical address", "Port number", "Protocol"],
+          "answer": "Physical address"
+        },
+        {
+          "question": "Which protocol sends email?",
+          "options": ["SMTP", "HTTP", "FTP", "ICMP"],
+          "answer": "SMTP"
+        },
+        {
+          "question": "Which layer ensures reliable delivery?",
+          "options": ["Transport", "Network", "Session", "Application"],
+          "answer": "Transport"
+        },
+        {
+          "question": "What is subnetting?",
+          "options": ["Dividing networks", "Merging networks", "Encrypting", "Routing"],
+          "answer": "Dividing networks"
+        },
+        {
+          "question": "What is latency?",
+          "options": ["Delay", "Speed", "Bandwidth", "Packet size"],
+          "answer": "Delay"
+        },
+        {
+          "question": "Which protocol is secure HTTP?",
+          "options": ["HTTPS", "FTP", "SMTP", "TCP"],
+          "answer": "HTTPS"
+        },
+        {
+          "question": "Which device works at Layer 2?",
+          "options": ["Switch", "Router", "Firewall", "Gateway"],
+          "answer": "Switch"
+        },
+        {
+          "question": "What is a packet?",
+          "options": ["Data unit", "Cable", "Protocol", "Device"],
+          "answer": "Data unit"
+        },
+        {
+          "question": "Which protocol is used for file transfer?",
+          "options": ["FTP", "HTTP", "SMTP", "ICMP"],
+          "answer": "FTP"
+        },
+        {
+          "question": "Which protocol checks connectivity?",
+          "options": ["ICMP", "HTTP", "FTP", "SMTP"],
+          "answer": "ICMP"
+        },
+        {
+          "question": "What is a firewall?",
+          "options": ["Security system", "Router", "Switch", "Protocol"],
+          "answer": "Security system"
+        },
+        {
+          "question": "What is a port number?",
+          "options": ["Process identifier", "IP address", "MAC address", "Protocol"],
+          "answer": "Process identifier"
+        }
+      ],
+      "Intermediate": [
+         {
+          "question": "What is NAT?",
+          "options": ["IP translation", "Encryption", "Routing", "Switching"],
+          "answer": "IP translation"
+        },
+        {
+          "question": "Which protocol is used for remote login?",
+          "options": ["SSH", "HTTP", "FTP", "SMTP"],
+          "answer": "SSH"
+        },
+        {
+          "question": "What is VLAN?",
+          "options": ["Virtual LAN", "Variable LAN", "Virtual Loop", "Value LAN"],
+          "answer": "Virtual LAN"
+        },
+        {
+          "question": "Which routing protocol is link-state?",
+          "options": ["OSPF", "RIP", "BGP", "EIGRP"],
+          "answer": "OSPF"
+        },
+        {
+          "question": "What is ARP?",
+          "options": ["Address Resolution Protocol", "Advanced Routing Protocol", "Application Routing Process", "Access Resolution Process"],
+          "answer": "Address Resolution Protocol"
+        },
+        {
+          "question": "Which protocol uses port 443?",
+          "options": ["HTTPS", "HTTP", "FTP", "SMTP"],
+          "answer": "HTTPS"
+        },
+        {
+          "question": "What is QoS?",
+          "options": ["Quality of Service", "Queue of System", "Quick Service", "Query System"],
+          "answer": "Quality of Service"
+        },
+        {
+          "question": "What is ICMP used for?",
+          "options": ["Error reporting", "File transfer", "Email sending", "Encryption"],
+          "answer": "Error reporting"
+        },
+        {
+          "question": "Which routing protocol is distance vector?",
+          "options": ["RIP", "OSPF", "BGP", "IS-IS"],
+          "answer": "RIP"
+        },
+        {
+          "question": "What is jitter?",
+          "options": ["Delay variation", "Packet loss", "Bandwidth", "Error rate"],
+          "answer": "Delay variation"
+        },
+        {
+          "question": "Which protocol resolves IP to MAC?",
+          "options": ["ARP", "DNS", "ICMP", "TCP"],
+          "answer": "ARP"
+        },
+        {
+          "question": "What is MTU?",
+          "options": ["Maximum Transmission Unit", "Minimum Transfer Unit", "Medium Transfer Unit", "Max Transport Utility"],
+          "answer": "Maximum Transmission Unit"
+        },
+        {
+          "question": "Which protocol is used in VoIP?",
+          "options": ["SIP", "HTTP", "FTP", "DNS"],
+          "answer": "SIP"
+        },
+        {
+          "question": "What is congestion control?",
+          "options": ["Avoid overload", "Increase speed", "Encrypt data", "Routing"],
+          "answer": "Avoid overload"
+        },
+        {
+          "question": "What is tunneling?",
+          "options": ["Encapsulation", "Routing", "Switching", "Encryption"],
+          "answer": "Encapsulation"
+        },
+        {
+          "question": "Which protocol is used between autonomous systems?",
+          "options": ["BGP", "RIP", "OSPF", "ICMP"],
+          "answer": "BGP"
+        },
+        {
+          "question": "What is packet switching?",
+          "options": ["Data split into packets", "Circuit-based", "Analog", "Encryption"],
+          "answer": "Data split into packets"
+        },
+        {
+          "question": "Which protocol uses UDP?",
+          "options": ["DNS", "FTP", "HTTP", "TCP"],
+          "answer": "DNS"
+        },
+        {
+          "question": "What is a routing table?",
+          "options": ["Path information", "Switch info", "Cable data", "Encryption key"],
+          "answer": "Path information"
+        },
+        {
+          "question": "What is firewall rule?",
+          "options": ["Traffic filtering rule", "Routing rule", "Switch rule", "Encryption key"],
+          "answer": "Traffic filtering rule"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is SDN?",
+          "options": ["Software Defined Networking", "Secure Data Network", "System Data Network", "Switch Data Network"],
+          "answer": "Software Defined Networking"
+        },
+        {
+          "question": "Which protocol is used in SDN?",
+          "options": ["OpenFlow", "HTTP", "FTP", "SMTP"],
+          "answer": "OpenFlow"
+        },
+        {
+          "question": "What is NFV?",
+          "options": ["Network Function Virtualization", "Network Flow Validation", "New Function Value", "Node Function Virtualization"],
+          "answer": "Network Function Virtualization"
+        },
+        {
+          "question": "What is MPLS?",
+          "options": ["Label switching", "Packet switching", "Circuit switching", "Frame relay"],
+          "answer": "Label switching"
+        },
+        {
+          "question": "Which protocol is path vector?",
+          "options": ["BGP", "RIP", "OSPF", "EIGRP"],
+          "answer": "BGP"
+        },
+        {
+          "question": "What is VXLAN?",
+          "options": ["Overlay network", "Routing protocol", "Encryption", "Firewall"],
+          "answer": "Overlay network"
+        },
+        {
+          "question": "What is Zero Trust?",
+          "options": ["Security model", "Routing protocol", "Switching", "QoS"],
+          "answer": "Security model"
+        },
+        {
+          "question": "What is QUIC?",
+          "options": ["Transport protocol", "Routing protocol", "Encryption", "Switching"],
+          "answer": "Transport protocol"
+        },
+        {
+          "question": "What is ECN?",
+          "options": ["Explicit Congestion Notification", "Error Control Network", "External Control Node", "Efficient Communication Network"],
+          "answer": "Explicit Congestion Notification"
+        },
+        {
+          "question": "Which protocol is used for time sync?",
+          "options": ["NTP", "FTP", "HTTP", "SMTP"],
+          "answer": "NTP"
+        },
+        {
+          "question": "What is network slicing?",
+          "options": ["Virtual partitioning", "Routing", "Switching", "Encryption"],
+          "answer": "Virtual partitioning"
+        },
+        {
+          "question": "What is telemetry?",
+          "options": ["Real-time monitoring", "Routing", "Switching", "Encryption"],
+          "answer": "Real-time monitoring"
+        },
+        {
+          "question": "What is edge computing?",
+          "options": ["Processing near source", "Cloud", "Routing", "Switching"],
+          "answer": "Processing near source"
+        },
+        {
+          "question": "What is intent-based networking?",
+          "options": ["Policy automation", "Manual config", "Routing", "Switching"],
+          "answer": "Policy automation"
+        },
+        {
+          "question": "What is DiffServ?",
+          "options": ["QoS architecture", "Routing protocol", "Encryption", "Switching"],
+          "answer": "QoS architecture"
+        },
+        {
+          "question": "What is control plane?",
+          "options": ["Routing decisions", "Packet forwarding", "Encryption", "Switching"],
+          "answer": "Routing decisions"
+        },
+        {
+          "question": "What is data plane?",
+          "options": ["Packet forwarding", "Routing decisions", "Encryption", "Control"],
+          "answer": "Packet forwarding"
+        },
+        {
+          "question": "What is SRv6?",
+          "options": ["Segment Routing IPv6", "Secure Routing", "Switch Routing", "Service Routing"],
+          "answer": "Segment Routing IPv6"
+        },
+        {
+          "question": "Which algorithm is used in congestion avoidance?",
+          "options": ["AIMD", "DFS", "BFS", "Greedy"],
+          "answer": "AIMD"
+        },
+        {
+          "question": "What is network virtualization?",
+          "options": ["Abstract network resources", "Routing", "Switching", "Encryption"],
+          "answer": "Abstract network resources"
+        }
+      ]
+    },
+    "Career switch": {
+      "Beginner": [
+        {
+          "question": "What is a computer network?",
+          "options": ["Connected devices", "Single computer", "Software", "Database"],
+          "answer": "Connected devices"
+        },
+        {
+          "question": "Which device connects multiple computers?",
+          "options": ["Switch", "Monitor", "Keyboard", "Mouse"],
+          "answer": "Switch"
+        },
+        {
+          "question": "What does IP stand for?",
+          "options": ["Internet Protocol", "Internal Process", "Input Protocol", "Interface Program"],
+          "answer": "Internet Protocol"
+        },
+        {
+          "question": "Which protocol is used for browsing?",
+          "options": ["HTTP", "FTP", "SMTP", "SNMP"],
+          "answer": "HTTP"
+        },
+        {
+          "question": "What is a router?",
+          "options": ["Network connector", "Storage device", "Input device", "Display device"],
+          "answer": "Network connector"
+        },
+        {
+          "question": "What is DNS?",
+          "options": ["Name resolution", "Routing", "Switching", "Encryption"],
+          "answer": "Name resolution"
+        },
+        {
+          "question": "Which protocol is connectionless?",
+          "options": ["UDP", "TCP", "HTTP", "FTP"],
+          "answer": "UDP"
+        },
+        {
+          "question": "What is bandwidth?",
+          "options": ["Data capacity", "Delay", "Error rate", "Packet size"],
+          "answer": "Data capacity"
+        },
+        {
+          "question": "What is a MAC address?",
+          "options": ["Physical address", "Logical address", "Port number", "Protocol"],
+          "answer": "Physical address"
+        },
+        {
+          "question": "Which protocol sends emails?",
+          "options": ["SMTP", "HTTP", "FTP", "ICMP"],
+          "answer": "SMTP"
+        },
+        {
+          "question": "Which layer handles transport?",
+          "options": ["Transport", "Network", "Session", "Application"],
+          "answer": "Transport"
+        },
+        {
+          "question": "What is latency?",
+          "options": ["Delay", "Speed", "Bandwidth", "Packet"],
+          "answer": "Delay"
+        },
+        {
+          "question": "What is subnetting?",
+          "options": ["Dividing networks", "Merging networks", "Encrypting", "Routing"],
+          "answer": "Dividing networks"
+        },
+        {
+          "question": "Which protocol is secure HTTP?",
+          "options": ["HTTPS", "FTP", "SMTP", "TCP"],
+          "answer": "HTTPS"
+        },
+        {
+          "question": "Which device works at Layer 2?",
+          "options": ["Switch", "Router", "Firewall", "Gateway"],
+          "answer": "Switch"
+        },
+        {
+          "question": "What is a packet?",
+          "options": ["Data unit", "Cable", "Protocol", "Device"],
+          "answer": "Data unit"
+        },
+        {
+          "question": "Which protocol is used for file transfer?",
+          "options": ["FTP", "HTTP", "SMTP", "ICMP"],
+          "answer": "FTP"
+        },
+        {
+          "question": "Which protocol checks connectivity?",
+          "options": ["ICMP", "HTTP", "FTP", "SMTP"],
+          "answer": "ICMP"
+        },
+        {
+          "question": "What is a firewall?",
+          "options": ["Security system", "Router", "Switch", "Protocol"],
+          "answer": "Security system"
+        },
+        {
+          "question": "What is a port number?",
+          "options": ["Process identifier", "IP address", "MAC address", "Protocol"],
+          "answer": "Process identifier"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is NAT?",
+          "options": ["IP translation", "Encryption", "Routing", "Switching"],
+          "answer": "IP translation"
+        },
+        {
+          "question": "Which protocol is used for remote login?",
+          "options": ["SSH", "HTTP", "FTP", "SMTP"],
+          "answer": "SSH"
+        },
+        {
+          "question": "What is VLAN?",
+          "options": ["Virtual LAN", "Variable LAN", "Virtual Loop", "Value LAN"],
+          "answer": "Virtual LAN"
+        },
+        {
+          "question": "Which routing protocol is link-state?",
+          "options": ["OSPF", "RIP", "BGP", "EIGRP"],
+          "answer": "OSPF"
+        },
+        {
+          "question": "What is ARP?",
+          "options": ["Address Resolution Protocol", "Advanced Routing Protocol", "Application Routing Process", "Access Resolution Process"],
+          "answer": "Address Resolution Protocol"
+        },
+        {
+          "question": "Which protocol uses port 443?",
+          "options": ["HTTPS", "HTTP", "FTP", "SMTP"],
+          "answer": "HTTPS"
+        },
+        {
+          "question": "What is QoS?",
+          "options": ["Quality of Service", "Queue System", "Quick Service", "Query System"],
+          "answer": "Quality of Service"
+        },
+        {
+          "question": "What is ICMP used for?",
+          "options": ["Error reporting", "File transfer", "Email sending", "Encryption"],
+          "answer": "Error reporting"
+        },
+        {
+          "question": "Which routing protocol is distance vector?",
+          "options": ["RIP", "OSPF", "BGP", "IS-IS"],
+          "answer": "RIP"
+        },
+        {
+          "question": "What is jitter?",
+          "options": ["Delay variation", "Packet loss", "Bandwidth", "Error rate"],
+          "answer": "Delay variation"
+        },
+        {
+          "question": "Which protocol resolves IP to MAC?",
+          "options": ["ARP", "DNS", "ICMP", "TCP"],
+          "answer": "ARP"
+        },
+        {
+          "question": "What is MTU?",
+          "options": ["Maximum Transmission Unit", "Minimum Transfer Unit", "Medium Transfer Unit", "Max Transport Utility"],
+          "answer": "Maximum Transmission Unit"
+        },
+        {
+          "question": "Which protocol is used in VoIP?",
+          "options": ["SIP", "HTTP", "FTP", "DNS"],
+          "answer": "SIP"
+        },
+        {
+          "question": "What is congestion control?",
+          "options": ["Avoid overload", "Increase speed", "Encrypt data", "Routing"],
+          "answer": "Avoid overload"
+        },
+        {
+          "question": "What is tunneling?",
+          "options": ["Encapsulation", "Routing", "Switching", "Encryption"],
+          "answer": "Encapsulation"
+        },
+        {
+          "question": "Which protocol is used between autonomous systems?",
+          "options": ["BGP", "RIP", "OSPF", "ICMP"],
+          "answer": "BGP"
+        },
+        {
+          "question": "What is packet switching?",
+          "options": ["Data split into packets", "Circuit-based", "Analog", "Encryption"],
+          "answer": "Data split into packets"
+        },
+        {
+          "question": "Which protocol uses UDP?",
+          "options": ["DNS", "FTP", "HTTP", "TCP"],
+          "answer": "DNS"
+        },
+        {
+          "question": "What is a routing table?",
+          "options": ["Path information", "Switch info", "Cable data", "Encryption key"],
+          "answer": "Path information"
+        },
+        {
+          "question": "What is firewall rule?",
+          "options": ["Traffic filtering rule", "Routing rule", "Switch rule", "Encryption key"],
+          "answer": "Traffic filtering rule"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is SDN?",
+          "options": ["Software Defined Networking", "Secure Data Network", "System Data Network", "Switch Data Network"],
+          "answer": "Software Defined Networking"
+        },
+        {
+          "question": "Which protocol is used in SDN?",
+          "options": ["OpenFlow", "HTTP", "FTP", "SMTP"],
+          "answer": "OpenFlow"
+        },
+        {
+          "question": "What is NFV?",
+          "options": ["Network Function Virtualization", "Network Flow Validation", "New Function Value", "Node Function Virtualization"],
+          "answer": "Network Function Virtualization"
+        },
+        {
+          "question": "What is MPLS?",
+          "options": ["Label switching", "Packet switching", "Circuit switching", "Frame relay"],
+          "answer": "Label switching"
+        },
+        {
+          "question": "Which protocol is path vector?",
+          "options": ["BGP", "RIP", "OSPF", "EIGRP"],
+          "answer": "BGP"
+        },
+        {
+          "question": "What is VXLAN?",
+          "options": ["Overlay network", "Routing protocol", "Encryption", "Firewall"],
+          "answer": "Overlay network"
+        },
+        {
+          "question": "What is Zero Trust?",
+          "options": ["Security model", "Routing protocol", "Switching", "QoS"],
+          "answer": "Security model"
+        },
+        {
+          "question": "What is QUIC?",
+          "options": ["Transport protocol", "Routing protocol", "Encryption", "Switching"],
+          "answer": "Transport protocol"
+        },
+        {
+          "question": "What is ECN?",
+          "options": ["Explicit Congestion Notification", "Error Control Network", "External Control Node", "Efficient Communication Network"],
+          "answer": "Explicit Congestion Notification"
+        },
+        {
+          "question": "Which protocol is used for time sync?",
+          "options": ["NTP", "FTP", "HTTP", "SMTP"],
+          "answer": "NTP"
+        },
+        {
+          "question": "What is network slicing?",
+          "options": ["Virtual partitioning", "Routing", "Switching", "Encryption"],
+          "answer": "Virtual partitioning"
+        },
+        {
+          "question": "What is telemetry?",
+          "options": ["Real-time monitoring", "Routing", "Switching", "Encryption"],
+          "answer": "Real-time monitoring"
+        },
+        {
+          "question": "What is edge computing?",
+          "options": ["Processing near source", "Cloud", "Routing", "Switching"],
+          "answer": "Processing near source"
+        },
+        {
+          "question": "What is intent-based networking?",
+          "options": ["Policy automation", "Manual config", "Routing", "Switching"],
+          "answer": "Policy automation"
+        },
+        {
+          "question": "What is DiffServ?",
+          "options": ["QoS architecture", "Routing protocol", "Encryption", "Switching"],
+          "answer": "QoS architecture"
+        },
+        {
+          "question": "What is control plane?",
+          "options": ["Routing decisions", "Packet forwarding", "Encryption", "Switching"],
+          "answer": "Routing decisions"
+        },
+        {
+          "question": "What is data plane?",
+          "options": ["Packet forwarding", "Routing decisions", "Encryption", "Control"],
+          "answer": "Packet forwarding"
+        },
+        {
+          "question": "What is SRv6?",
+          "options": ["Segment Routing IPv6", "Secure Routing", "Switch Routing", "Service Routing"],
+          "answer": "Segment Routing IPv6"
+        },
+        {
+          "question": "Which algorithm is used in congestion avoidance?",
+          "options": ["AIMD", "DFS", "BFS", "Greedy"],
+          "answer": "AIMD"
+        },
+        {
+          "question": "What is network virtualization?",
+          "options": ["Abstract network resources", "Routing", "Switching", "Encryption"],
+          "answer": "Abstract network resources"
+        }
+      ]
+    },
+    "Competitive exams": {
+      "Beginner": [
+        {
+          "question": "What does OSI stand for?",
+          "options": ["Open Systems Interconnection", "Operating System Interface", "Open Service Interface", "Optical System Integration"],
+          "answer": "Open Systems Interconnection"
+        },
+        {
+          "question": "Which layer is responsible for routing?",
+          "options": ["Network", "Transport", "Session", "Application"],
+          "answer": "Network"
+        },
+        {
+          "question": "What is the size of IPv4 address?",
+          "options": ["32-bit", "64-bit", "128-bit", "16-bit"],
+          "answer": "32-bit"
+        },
+        {
+          "question": "Which protocol is used for email sending?",
+          "options": ["SMTP", "HTTP", "FTP", "SNMP"],
+          "answer": "SMTP"
+        },
+        {
+          "question": "Which device connects networks?",
+          "options": ["Router", "Switch", "Hub", "Repeater"],
+          "answer": "Router"
+        },
+        {
+          "question": "What is DNS used for?",
+          "options": ["Name resolution", "Routing", "Switching", "Encryption"],
+          "answer": "Name resolution"
+        },
+        {
+          "question": "Which protocol is connectionless?",
+          "options": ["UDP", "TCP", "HTTP", "FTP"],
+          "answer": "UDP"
+        },
+        {
+          "question": "Which layer handles error detection?",
+          "options": ["Data Link", "Application", "Session", "Presentation"],
+          "answer": "Data Link"
+        },
+        {
+          "question": "What is bandwidth?",
+          "options": ["Data transfer capacity", "Delay", "Error rate", "Packet size"],
+          "answer": "Data transfer capacity"
+        },
+        {
+          "question": "What is MAC address?",
+          "options": ["Physical address", "Logical address", "Port number", "Protocol"],
+          "answer": "Physical address"
+        },
+        {
+          "question": "Which protocol is used for file transfer?",
+          "options": ["FTP", "HTTP", "SMTP", "ICMP"],
+          "answer": "FTP"
+        },
+        {
+          "question": "What is a packet?",
+          "options": ["Data unit", "Device", "Cable", "Protocol"],
+          "answer": "Data unit"
+        },
+        {
+          "question": "Which protocol checks connectivity?",
+          "options": ["ICMP", "HTTP", "FTP", "SMTP"],
+          "answer": "ICMP"
+        },
+        {
+          "question": "Which protocol is secure HTTP?",
+          "options": ["HTTPS", "FTP", "SMTP", "TCP"],
+          "answer": "HTTPS"
+        },
+        {
+          "question": "Which device works at Layer 2?",
+          "options": ["Switch", "Router", "Firewall", "Gateway"],
+          "answer": "Switch"
+        },
+        {
+          "question": "What is latency?",
+          "options": ["Delay", "Speed", "Bandwidth", "Packet"],
+          "answer": "Delay"
+        },
+        {
+          "question": "What is subnetting?",
+          "options": ["Dividing networks", "Merging networks", "Encrypting", "Routing"],
+          "answer": "Dividing networks"
+        },
+        {
+          "question": "Which layer interacts with user?",
+          "options": ["Application", "Transport", "Network", "Data Link"],
+          "answer": "Application"
+        },
+        {
+          "question": "What is a firewall?",
+          "options": ["Security system", "Router", "Switch", "Protocol"],
+          "answer": "Security system"
+        },
+        {
+          "question": "What is a port number?",
+          "options": ["Process identifier", "IP address", "MAC address", "Protocol"],
+          "answer": "Process identifier"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is NAT?",
+          "options": ["IP translation", "Encryption", "Routing", "Switching"],
+          "answer": "IP translation"
+        },
+        {
+          "question": "Which protocol is used for remote login?",
+          "options": ["SSH", "HTTP", "FTP", "SMTP"],
+          "answer": "SSH"
+        },
+        {
+          "question": "Which routing protocol is link-state?",
+          "options": ["OSPF", "RIP", "BGP", "EIGRP"],
+          "answer": "OSPF"
+        },
+        {
+          "question": "What is ARP?",
+          "options": ["Address Resolution Protocol", "Advanced Routing Protocol", "Application Routing Process", "Access Resolution Process"],
+          "answer": "Address Resolution Protocol"
+        },
+        {
+          "question": "Which protocol uses port 53?",
+          "options": ["DNS", "HTTP", "FTP", "SMTP"],
+          "answer": "DNS"
+        },
+        {
+          "question": "What is QoS?",
+          "options": ["Quality of Service", "Queue System", "Quick Service", "Query System"],
+          "answer": "Quality of Service"
+        },
+        {
+          "question": "Which protocol is distance vector?",
+          "options": ["RIP", "OSPF", "BGP", "IS-IS"],
+          "answer": "RIP"
+        },
+        {
+          "question": "What is jitter?",
+          "options": ["Delay variation", "Packet loss", "Bandwidth", "Error rate"],
+          "answer": "Delay variation"
+        },
+        {
+          "question": "Which protocol resolves IP to MAC?",
+          "options": ["ARP", "DNS", "ICMP", "TCP"],
+          "answer": "ARP"
+        },
+        {
+          "question": "What is MTU?",
+          "options": ["Maximum Transmission Unit", "Minimum Transfer Unit", "Medium Transfer Unit", "Max Transport Utility"],
+          "answer": "Maximum Transmission Unit"
+        },
+        {
+          "question": "Which protocol is used in VoIP?",
+          "options": ["SIP", "HTTP", "FTP", "DNS"],
+          "answer": "SIP"
+        },
+        {
+          "question": "What is congestion control?",
+          "options": ["Avoid overload", "Increase speed", "Encrypt data", "Routing"],
+          "answer": "Avoid overload"
+        },
+        {
+          "question": "Which protocol is used between autonomous systems?",
+          "options": ["BGP", "RIP", "OSPF", "ICMP"],
+          "answer": "BGP"
+        },
+        {
+          "question": "What is packet switching?",
+          "options": ["Data split into packets", "Circuit-based", "Analog", "Encryption"],
+          "answer": "Data split into packets"
+        },
+        {
+          "question": "Which protocol uses UDP?",
+          "options": ["DNS", "FTP", "HTTP", "TCP"],
+          "answer": "DNS"
+        },
+        {
+          "question": "What is routing table?",
+          "options": ["Path information", "Switch info", "Cable data", "Encryption key"],
+          "answer": "Path information"
+        },
+        {
+          "question": "What is firewall rule?",
+          "options": ["Traffic filtering rule", "Routing rule", "Switch rule", "Encryption key"],
+          "answer": "Traffic filtering rule"
+        },
+        {
+          "question": "What is encapsulation?",
+          "options": ["Wrapping data", "Routing", "Switching", "Encryption"],
+          "answer": "Wrapping data"
+        },
+        {
+          "question": "What is throughput?",
+          "options": ["Actual data transfer", "Delay", "Error", "Packet loss"],
+          "answer": "Actual data transfer"
+        },
+        {
+          "question": "Which protocol sends control messages?",
+          "options": ["ICMP", "HTTP", "FTP", "SMTP"],
+          "answer": "ICMP"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "Which routing protocol uses path vector algorithm?",
+          "options": ["BGP", "RIP", "OSPF", "EIGRP"],
+          "answer": "BGP"
+        },
+        {
+          "question": "What is MPLS used for?",
+          "options": ["Label switching", "Packet switching", "Circuit switching", "Encryption"],
+          "answer": "Label switching"
+        },
+        {
+          "question": "What is SDN?",
+          "options": ["Software Defined Networking", "Secure Data Network", "System Data Network", "Switch Data Network"],
+          "answer": "Software Defined Networking"
+        },
+        {
+          "question": "What is NFV?",
+          "options": ["Network Function Virtualization", "Network Flow Validation", "New Function Value", "Node Function Virtualization"],
+          "answer": "Network Function Virtualization"
+        },
+        {
+          "question": "Which protocol is used for time sync?",
+          "options": ["NTP", "HTTP", "FTP", "SMTP"],
+          "answer": "NTP"
+        },
+        {
+          "question": "What is ECN?",
+          "options": ["Explicit Congestion Notification", "Error Control Network", "External Control Node", "Efficient Communication Network"],
+          "answer": "Explicit Congestion Notification"
+        },
+        {
+          "question": "What is QUIC?",
+          "options": ["Transport protocol", "Routing protocol", "Encryption", "Switching"],
+          "answer": "Transport protocol"
+        },
+        {
+          "question": "What is Zero Trust?",
+          "options": ["Security model", "Routing", "Switching", "QoS"],
+          "answer": "Security model"
+        },
+        {
+          "question": "What is network slicing?",
+          "options": ["Virtual partitioning", "Routing", "Switching", "Encryption"],
+          "answer": "Virtual partitioning"
+        },
+        {
+          "question": "What is telemetry?",
+          "options": ["Real-time monitoring", "Routing", "Switching", "Encryption"],
+          "answer": "Real-time monitoring"
+        },
+        {
+          "question": "What is VXLAN?",
+          "options": ["Overlay network", "Routing protocol", "Encryption", "Firewall"],
+          "answer": "Overlay network"
+        },
+        {
+          "question": "What is edge computing?",
+          "options": ["Processing near source", "Cloud computing", "Routing", "Switching"],
+          "answer": "Processing near source"
+        },
+        {
+          "question": "What is DiffServ?",
+          "options": ["QoS architecture", "Routing protocol", "Encryption", "Switching"],
+          "answer": "QoS architecture"
+        },
+        {
+          "question": "What is control plane?",
+          "options": ["Routing decisions", "Packet forwarding", "Encryption", "Switching"],
+          "answer": "Routing decisions"
+        },
+        {
+          "question": "What is data plane?",
+          "options": ["Packet forwarding", "Routing decisions", "Encryption", "Control"],
+          "answer": "Packet forwarding"
+        },
+        {
+          "question": "Which algorithm is used in TCP congestion avoidance?",
+          "options": ["AIMD", "DFS", "BFS", "Greedy"],
+          "answer": "AIMD"
+        },
+        {
+          "question": "What is SRv6?",
+          "options": ["Segment Routing IPv6", "Secure Routing", "Switch Routing", "Service Routing"],
+          "answer": "Segment Routing IPv6"
+        },
+        {
+          "question": "What is intent-based networking?",
+          "options": ["Policy automation", "Manual configuration", "Routing", "Switching"],
+          "answer": "Policy automation"
+        },
+        {
+          "question": "What is network virtualization?",
+          "options": ["Abstract network resources", "Routing", "Switching", "Encryption"],
+          "answer": "Abstract network resources"
+        },
+        {
+          "question": "Which protocol is used in SDN?",
+          "options": ["OpenFlow", "HTTP", "FTP", "SMTP"],
+          "answer": "OpenFlow"
+        }
+      ]
+    }
+  }
+}

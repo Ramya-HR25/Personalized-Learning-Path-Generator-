@@ -1,0 +1,4261 @@
+{
+  "courseName": "Android Development",
+  "workspaces": {
+    "Job preparation": {
+      "Beginner": [
+        {
+          "question": "What language is primarily used for Android development?",
+          "options": [
+            "Python",
+            "Java",
+            "C++",
+            "Ruby"
+          ],
+          "answer": "Java"
+        },
+        {
+          "question": "What is APK?",
+          "options": [
+            "Android Package",
+            "App Kit",
+            "Application Program",
+            "Android Process"
+          ],
+          "answer": "Android Package"
+        },
+        {
+          "question": "Which IDE is used for Android?",
+          "options": [
+            "Eclipse",
+            "Android Studio",
+            "VS Code",
+            "NetBeans"
+          ],
+          "answer": "Android Studio"
+        },
+        {
+          "question": "What is Activity?",
+          "options": [
+            "UI Screen",
+            "Database",
+            "Service",
+            "Thread"
+          ],
+          "answer": "UI Screen"
+        },
+        {
+          "question": "What file defines UI layout?",
+          "options": [
+            "XML",
+            "JSON",
+            "HTML",
+            "TXT"
+          ],
+          "answer": "XML"
+        },
+        {
+          "question": "What is Gradle?",
+          "options": [
+            "Build tool",
+            "Database",
+            "Language",
+            "IDE"
+          ],
+          "answer": "Build tool"
+        },
+        {
+          "question": "What is Intent?",
+          "options": [
+            "Message object",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Message object"
+        },
+        {
+          "question": "What is Toast?",
+          "options": [
+            "Popup message",
+            "Button",
+            "Layout",
+            "Service"
+          ],
+          "answer": "Popup message"
+        },
+        {
+          "question": "Which layout stacks views?",
+          "options": [
+            "LinearLayout",
+            "RelativeLayout",
+            "FrameLayout",
+            "ConstraintLayout"
+          ],
+          "answer": "LinearLayout"
+        },
+        {
+          "question": "What is Logcat?",
+          "options": [
+            "Logs viewer",
+            "Compiler",
+            "UI tool",
+            "Database"
+          ],
+          "answer": "Logs viewer"
+        },
+        {
+          "question": "What is emulator?",
+          "options": [
+            "Virtual device",
+            "Compiler",
+            "IDE",
+            "App"
+          ],
+          "answer": "Virtual device"
+        },
+        {
+          "question": "What is manifest file?",
+          "options": [
+            "App config",
+            "UI file",
+            "Database",
+            "Script"
+          ],
+          "answer": "App config"
+        },
+        {
+          "question": "What is View?",
+          "options": [
+            "UI element",
+            "Database",
+            "Thread",
+            "File"
+          ],
+          "answer": "UI element"
+        },
+        {
+          "question": "Which method starts activity?",
+          "options": [
+            "startActivity()",
+            "run()",
+            "execute()",
+            "launch()"
+          ],
+          "answer": "startActivity()"
+        },
+        {
+          "question": "What is Button?",
+          "options": [
+            "UI control",
+            "Database",
+            "Thread",
+            "Layout"
+          ],
+          "answer": "UI control"
+        },
+        {
+          "question": "What is EditText?",
+          "options": [
+            "Input field",
+            "Button",
+            "Layout",
+            "Image"
+          ],
+          "answer": "Input field"
+        },
+        {
+          "question": "What is ImageView?",
+          "options": [
+            "Display image",
+            "Button",
+            "Text",
+            "Layout"
+          ],
+          "answer": "Display image"
+        },
+        {
+          "question": "What is TextView?",
+          "options": [
+            "Display text",
+            "Button",
+            "Image",
+            "Layout"
+          ],
+          "answer": "Display text"
+        },
+        {
+          "question": "What is RecyclerView?",
+          "options": [
+            "List view",
+            "Database",
+            "Thread",
+            "Service"
+          ],
+          "answer": "List view"
+        },
+        {
+          "question": "What is SDK?",
+          "options": [
+            "Development kit",
+            "Database",
+            "Compiler",
+            "App"
+          ],
+          "answer": "Development kit"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is Fragment?",
+          "options": [
+            "Reusable UI",
+            "Database",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Reusable UI"
+        },
+        {
+          "question": "What is ViewModel?",
+          "options": [
+            "Manage UI data",
+            "Database",
+            "Thread",
+            "Layout"
+          ],
+          "answer": "Manage UI data"
+        },
+        {
+          "question": "What is LiveData?",
+          "options": [
+            "Observable data",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Observable data"
+        },
+        {
+          "question": "What is Room?",
+          "options": [
+            "Database library",
+            "UI",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Database library"
+        },
+        {
+          "question": "What is Retrofit?",
+          "options": [
+            "API client",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "API client"
+        },
+        {
+          "question": "What is Glide?",
+          "options": [
+            "Image loader",
+            "Database",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Image loader"
+        },
+        {
+          "question": "What is ConstraintLayout?",
+          "options": [
+            "Flexible layout",
+            "Database",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Flexible layout"
+        },
+        {
+          "question": "What is Handler?",
+          "options": [
+            "Thread communication",
+            "UI",
+            "Database",
+            "File"
+          ],
+          "answer": "Thread communication"
+        },
+        {
+          "question": "What is BroadcastReceiver?",
+          "options": [
+            "Receive system events",
+            "UI",
+            "Thread",
+            "DB"
+          ],
+          "answer": "Receive system events"
+        },
+        {
+          "question": "What is Service?",
+          "options": [
+            "Background task",
+            "UI",
+            "Database",
+            "Layout"
+          ],
+          "answer": "Background task"
+        },
+        {
+          "question": "What is AsyncTask?",
+          "options": [
+            "Background task",
+            "UI",
+            "Database",
+            "Layout"
+          ],
+          "answer": "Background task"
+        },
+        {
+          "question": "What is Navigation Component?",
+          "options": [
+            "Handle navigation",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Handle navigation"
+        },
+        {
+          "question": "What is dependency injection?",
+          "options": [
+            "Inject dependencies",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Inject dependencies"
+        },
+        {
+          "question": "What is Dagger?",
+          "options": [
+            "DI framework",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "DI framework"
+        },
+        {
+          "question": "What is Hilt?",
+          "options": [
+            "DI library",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "DI library"
+        },
+        {
+          "question": "What is Coroutines?",
+          "options": [
+            "Async programming",
+            "UI",
+            "DB",
+            "Layout"
+          ],
+          "answer": "Async programming"
+        },
+        {
+          "question": "What is Flow?",
+          "options": [
+            "Data stream",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Data stream"
+        },
+        {
+          "question": "What is Paging?",
+          "options": [
+            "Load data chunks",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Load data chunks"
+        },
+        {
+          "question": "What is DataBinding?",
+          "options": [
+            "Bind UI data",
+            "DB",
+            "Thread",
+            "Layout"
+          ],
+          "answer": "Bind UI data"
+        },
+        {
+          "question": "What is ViewBinding?",
+          "options": [
+            "Bind views",
+            "DB",
+            "Thread",
+            "Layout"
+          ],
+          "answer": "Bind views"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is MVVM?",
+          "options": [
+            "Architecture pattern",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Architecture pattern"
+        },
+        {
+          "question": "What is Clean Architecture?",
+          "options": [
+            "Layered design",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Layered design"
+        },
+        {
+          "question": "What is multi-module project?",
+          "options": [
+            "Multiple modules",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Multiple modules"
+        },
+        {
+          "question": "What is Proguard?",
+          "options": [
+            "Code shrinker",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Code shrinker"
+        },
+        {
+          "question": "What is R8?",
+          "options": [
+            "Code optimizer",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Code optimizer"
+        },
+        {
+          "question": "What is memory leak?",
+          "options": [
+            "Unused memory",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Unused memory"
+        },
+        {
+          "question": "What is ANR?",
+          "options": [
+            "App not responding",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App not responding"
+        },
+        {
+          "question": "What is WorkManager?",
+          "options": [
+            "Background jobs",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Background jobs"
+        },
+        {
+          "question": "What is Jetpack?",
+          "options": [
+            "Android libraries",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Android libraries"
+        },
+        {
+          "question": "What is Compose?",
+          "options": [
+            "UI toolkit",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI toolkit"
+        },
+        {
+          "question": "What is state management?",
+          "options": [
+            "Handle UI state",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Handle UI state"
+        },
+        {
+          "question": "What is deep linking?",
+          "options": [
+            "Open app via link",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Open app via link"
+        },
+        {
+          "question": "What is app bundle?",
+          "options": [
+            "Optimized APK",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Optimized APK"
+        },
+        {
+          "question": "What is Play Store policy?",
+          "options": [
+            "Publishing rules",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Publishing rules"
+        },
+        {
+          "question": "What is Firebase?",
+          "options": [
+            "Backend service",
+            "UI",
+            "Thread",
+            "DB"
+          ],
+          "answer": "Backend service"
+        },
+        {
+          "question": "What is crash reporting?",
+          "options": [
+            "Error tracking",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Error tracking"
+        },
+        {
+          "question": "What is A/B testing?",
+          "options": [
+            "Experiment testing",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Experiment testing"
+        },
+        {
+          "question": "What is CI/CD?",
+          "options": [
+            "Automation pipeline",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Automation pipeline"
+        },
+        {
+          "question": "What is lint?",
+          "options": [
+            "Code analysis",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Code analysis"
+        },
+        {
+          "question": "What is profiling?",
+          "options": [
+            "Performance analysis",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Performance analysis"
+        }
+      ]
+    },
+    "Skill development": {
+      "Beginner": [
+        {
+          "question": "What is an Activity lifecycle method?",
+          "options": [
+            "onCreate()",
+            "run()",
+            "execute()",
+            "start()"
+          ],
+          "answer": "onCreate()"
+        },
+        {
+          "question": "Which file contains app permissions?",
+          "options": [
+            "AndroidManifest.xml",
+            "MainActivity.java",
+            "build.gradle",
+            "styles.xml"
+          ],
+          "answer": "AndroidManifest.xml"
+        },
+        {
+          "question": "What is setContentView()?",
+          "options": [
+            "Set UI layout",
+            "Start service",
+            "Stop app",
+            "Run thread"
+          ],
+          "answer": "Set UI layout"
+        },
+        {
+          "question": "What is a Layout?",
+          "options": [
+            "UI structure",
+            "Database",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI structure"
+        },
+        {
+          "question": "Which layout arranges views vertically/horizontally?",
+          "options": [
+            "LinearLayout",
+            "FrameLayout",
+            "TableLayout",
+            "GridLayout"
+          ],
+          "answer": "LinearLayout"
+        },
+        {
+          "question": "What is findViewById()?",
+          "options": [
+            "Find UI element",
+            "Delete view",
+            "Create DB",
+            "Start thread"
+          ],
+          "answer": "Find UI element"
+        },
+        {
+          "question": "What is an ID in Android?",
+          "options": [
+            "Unique identifier",
+            "Database",
+            "Thread",
+            "Layout"
+          ],
+          "answer": "Unique identifier"
+        },
+        {
+          "question": "What is wrap_content?",
+          "options": [
+            "Adjust size to content",
+            "Full size",
+            "Zero size",
+            "Fixed size"
+          ],
+          "answer": "Adjust size to content"
+        },
+        {
+          "question": "What is match_parent?",
+          "options": [
+            "Full size",
+            "Content size",
+            "Half size",
+            "Zero size"
+          ],
+          "answer": "Full size"
+        },
+        {
+          "question": "What is padding?",
+          "options": [
+            "Space inside view",
+            "Outside space",
+            "Text",
+            "Color"
+          ],
+          "answer": "Space inside view"
+        },
+        {
+          "question": "What is margin?",
+          "options": [
+            "Space outside view",
+            "Inside space",
+            "Color",
+            "Text"
+          ],
+          "answer": "Space outside view"
+        },
+        {
+          "question": "What is click listener?",
+          "options": [
+            "Handle clicks",
+            "Handle DB",
+            "Thread",
+            "Layout"
+          ],
+          "answer": "Handle clicks"
+        },
+        {
+          "question": "What is OnClickListener?",
+          "options": [
+            "Click handler",
+            "Thread",
+            "Database",
+            "Layout"
+          ],
+          "answer": "Click handler"
+        },
+        {
+          "question": "What is ScrollView?",
+          "options": [
+            "Scrollable view",
+            "Button",
+            "Layout",
+            "Thread"
+          ],
+          "answer": "Scrollable view"
+        },
+        {
+          "question": "What is Spinner?",
+          "options": [
+            "Dropdown",
+            "Button",
+            "Layout",
+            "Thread"
+          ],
+          "answer": "Dropdown"
+        },
+        {
+          "question": "What is CheckBox?",
+          "options": [
+            "Multiple selection",
+            "Single selection",
+            "Text",
+            "Image"
+          ],
+          "answer": "Multiple selection"
+        },
+        {
+          "question": "What is RadioButton?",
+          "options": [
+            "Single selection",
+            "Multiple selection",
+            "Text",
+            "Image"
+          ],
+          "answer": "Single selection"
+        },
+        {
+          "question": "What is Toast duration?",
+          "options": [
+            "Short/Long",
+            "Infinite",
+            "Zero",
+            "Custom"
+          ],
+          "answer": "Short/Long"
+        },
+        {
+          "question": "What is Log.d()?",
+          "options": [
+            "Debug log",
+            "Error log",
+            "Warning",
+            "Info"
+          ],
+          "answer": "Debug log"
+        },
+        {
+          "question": "What is resource folder?",
+          "options": [
+            "Store assets",
+            "Code",
+            "Thread",
+            "Database"
+          ],
+          "answer": "Store assets"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is RecyclerView adapter?",
+          "options": [
+            "Bind data",
+            "UI layout",
+            "Thread",
+            "DB"
+          ],
+          "answer": "Bind data"
+        },
+        {
+          "question": "What is ViewHolder?",
+          "options": [
+            "Cache views",
+            "Database",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Cache views"
+        },
+        {
+          "question": "What is DiffUtil?",
+          "options": [
+            "Optimize list updates",
+            "Database",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Optimize list updates"
+        },
+        {
+          "question": "What is Parcelable?",
+          "options": [
+            "Pass data",
+            "Store DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Pass data"
+        },
+        {
+          "question": "What is Serializable?",
+          "options": [
+            "Object conversion",
+            "UI",
+            "Thread",
+            "DB"
+          ],
+          "answer": "Object conversion"
+        },
+        {
+          "question": "What is SharedPreferences?",
+          "options": [
+            "Store key-value",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Store key-value"
+        },
+        {
+          "question": "What is SQLite?",
+          "options": [
+            "Local DB",
+            "UI",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Local DB"
+        },
+        {
+          "question": "What is ContentProvider?",
+          "options": [
+            "Share data",
+            "UI",
+            "Thread",
+            "DB"
+          ],
+          "answer": "Share data"
+        },
+        {
+          "question": "What is Intent filter?",
+          "options": [
+            "Handle intents",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Handle intents"
+        },
+        {
+          "question": "What is explicit intent?",
+          "options": [
+            "Direct target",
+            "System target",
+            "Random",
+            "None"
+          ],
+          "answer": "Direct target"
+        },
+        {
+          "question": "What is implicit intent?",
+          "options": [
+            "System chooses",
+            "Direct target",
+            "None",
+            "Random"
+          ],
+          "answer": "System chooses"
+        },
+        {
+          "question": "What is fragment lifecycle?",
+          "options": [
+            "Fragment states",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Fragment states"
+        },
+        {
+          "question": "What is back stack?",
+          "options": [
+            "Navigation history",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Navigation history"
+        },
+        {
+          "question": "What is Toolbar?",
+          "options": [
+            "Action bar",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Action bar"
+        },
+        {
+          "question": "What is Menu?",
+          "options": [
+            "Options list",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Options list"
+        },
+        {
+          "question": "What is Snackbar?",
+          "options": [
+            "Message bar",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Message bar"
+        },
+        {
+          "question": "What is CoordinatorLayout?",
+          "options": [
+            "Advanced layout",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Advanced layout"
+        },
+        {
+          "question": "What is Constraint bias?",
+          "options": [
+            "Position control",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Position control"
+        },
+        {
+          "question": "What is style?",
+          "options": [
+            "UI design",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI design"
+        },
+        {
+          "question": "What is theme?",
+          "options": [
+            "App design",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "App design"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is Jetpack Compose state?",
+          "options": [
+            "UI state",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI state"
+        },
+        {
+          "question": "What is remember in Compose?",
+          "options": [
+            "Store state",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Store state"
+        },
+        {
+          "question": "What is LaunchedEffect?",
+          "options": [
+            "Side effects",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Side effects"
+        },
+        {
+          "question": "What is recomposition?",
+          "options": [
+            "UI redraw",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI redraw"
+        },
+        {
+          "question": "What is StateFlow?",
+          "options": [
+            "State stream",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "State stream"
+        },
+        {
+          "question": "What is SharedFlow?",
+          "options": [
+            "Event stream",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Event stream"
+        },
+        {
+          "question": "What is coroutine scope?",
+          "options": [
+            "Lifecycle control",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Lifecycle control"
+        },
+        {
+          "question": "What is Dispatchers.IO?",
+          "options": [
+            "Background thread",
+            "UI thread",
+            "DB",
+            "Service"
+          ],
+          "answer": "Background thread"
+        },
+        {
+          "question": "What is Dispatchers.Main?",
+          "options": [
+            "UI thread",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI thread"
+        },
+        {
+          "question": "What is suspend function?",
+          "options": [
+            "Async function",
+            "Sync function",
+            "DB",
+            "UI"
+          ],
+          "answer": "Async function"
+        },
+        {
+          "question": "What is Flow collect?",
+          "options": [
+            "Receive data",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Receive data"
+        },
+        {
+          "question": "What is exception handling in coroutines?",
+          "options": [
+            "Try-catch",
+            "Ignore",
+            "Crash",
+            "Stop"
+          ],
+          "answer": "Try-catch"
+        },
+        {
+          "question": "What is lifecycleScope?",
+          "options": [
+            "Lifecycle coroutine",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Lifecycle coroutine"
+        },
+        {
+          "question": "What is viewModelScope?",
+          "options": [
+            "VM coroutine",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "VM coroutine"
+        },
+        {
+          "question": "What is WorkManager constraint?",
+          "options": [
+            "Execution condition",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Execution condition"
+        },
+        {
+          "question": "What is foreground service?",
+          "options": [
+            "Visible service",
+            "Hidden service",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Visible service"
+        },
+        {
+          "question": "What is JobScheduler?",
+          "options": [
+            "Schedule jobs",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Schedule jobs"
+        },
+        {
+          "question": "What is battery optimization?",
+          "options": [
+            "Save power",
+            "Increase CPU",
+            "DB",
+            "UI"
+          ],
+          "answer": "Save power"
+        },
+        {
+          "question": "What is strict mode?",
+          "options": [
+            "Detect issues",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Detect issues"
+        },
+        {
+          "question": "What is performance tuning?",
+          "options": [
+            "Optimize app",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Optimize app"
+        }
+      ]
+    },
+    "Project development": {
+      "Beginner": [
+        {
+          "question": "What is the first step in Android project creation?",
+          "options": [
+            "Setup IDE",
+            "Write code",
+            "Deploy app",
+            "Publish app"
+          ],
+          "answer": "Setup IDE"
+        },
+        {
+          "question": "What is a project structure?",
+          "options": [
+            "Folder organization",
+            "UI design",
+            "Database",
+            "Thread"
+          ],
+          "answer": "Folder organization"
+        },
+        {
+          "question": "What is MainActivity?",
+          "options": [
+            "Entry screen",
+            "Database",
+            "Service",
+            "Thread"
+          ],
+          "answer": "Entry screen"
+        },
+        {
+          "question": "What is layout preview?",
+          "options": [
+            "UI preview",
+            "Database",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI preview"
+        },
+        {
+          "question": "What is resource file?",
+          "options": [
+            "Assets storage",
+            "Code file",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Assets storage"
+        },
+        {
+          "question": "What is drawable folder?",
+          "options": [
+            "Images",
+            "Code",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Images"
+        },
+        {
+          "question": "What is strings.xml?",
+          "options": [
+            "Text storage",
+            "Code",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Text storage"
+        },
+        {
+          "question": "What is colors.xml?",
+          "options": [
+            "Color values",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Color values"
+        },
+        {
+          "question": "What is styles.xml?",
+          "options": [
+            "UI styles",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI styles"
+        },
+        {
+          "question": "What is build.gradle?",
+          "options": [
+            "Build config",
+            "UI file",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Build config"
+        },
+        {
+          "question": "What is minimum SDK?",
+          "options": [
+            "Lowest version",
+            "Highest version",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Lowest version"
+        },
+        {
+          "question": "What is target SDK?",
+          "options": [
+            "Target version",
+            "Lowest version",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Target version"
+        },
+        {
+          "question": "What is emulator testing?",
+          "options": [
+            "Virtual testing",
+            "Real device",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Virtual testing"
+        },
+        {
+          "question": "What is real device testing?",
+          "options": [
+            "Physical device",
+            "Virtual device",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Physical device"
+        },
+        {
+          "question": "What is debug build?",
+          "options": [
+            "Testing build",
+            "Release build",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Testing build"
+        },
+        {
+          "question": "What is release build?",
+          "options": [
+            "Final build",
+            "Test build",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Final build"
+        },
+        {
+          "question": "What is APK generation?",
+          "options": [
+            "App packaging",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App packaging"
+        },
+        {
+          "question": "What is app icon?",
+          "options": [
+            "App symbol",
+            "Code",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App symbol"
+        },
+        {
+          "question": "What is splash screen?",
+          "options": [
+            "Startup screen",
+            "DB",
+            "Thread",
+            "UI"
+          ],
+          "answer": "Startup screen"
+        },
+        {
+          "question": "What is version code?",
+          "options": [
+            "Internal version",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Internal version"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is MVC architecture?",
+          "options": [
+            "Design pattern",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Design pattern"
+        },
+        {
+          "question": "What is MVP architecture?",
+          "options": [
+            "Presentation pattern",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Presentation pattern"
+        },
+        {
+          "question": "What is MVVM architecture?",
+          "options": [
+            "Modern pattern",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Modern pattern"
+        },
+        {
+          "question": "What is modularization?",
+          "options": [
+            "Divide project",
+            "Merge project",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Divide project"
+        },
+        {
+          "question": "What is API integration?",
+          "options": [
+            "Connect backend",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Connect backend"
+        },
+        {
+          "question": "What is JSON parsing?",
+          "options": [
+            "Read API data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Read API data"
+        },
+        {
+          "question": "What is error handling?",
+          "options": [
+            "Handle crashes",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Handle crashes"
+        },
+        {
+          "question": "What is logging?",
+          "options": [
+            "Track events",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Track events"
+        },
+        {
+          "question": "What is user authentication?",
+          "options": [
+            "Login system",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Login system"
+        },
+        {
+          "question": "What is Firebase Auth?",
+          "options": [
+            "Auth service",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Auth service"
+        },
+        {
+          "question": "What is Firestore?",
+          "options": [
+            "Cloud DB",
+            "UI",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Cloud DB"
+        },
+        {
+          "question": "What is REST API?",
+          "options": [
+            "Web service",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Web service"
+        },
+        {
+          "question": "What is pagination?",
+          "options": [
+            "Load data in parts",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Load data in parts"
+        },
+        {
+          "question": "What is caching?",
+          "options": [
+            "Store temp data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Store temp data"
+        },
+        {
+          "question": "What is offline support?",
+          "options": [
+            "Work without internet",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Work without internet"
+        },
+        {
+          "question": "What is push notification?",
+          "options": [
+            "Send alerts",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Send alerts"
+        },
+        {
+          "question": "What is Firebase Cloud Messaging?",
+          "options": [
+            "Notification service",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Notification service"
+        },
+        {
+          "question": "What is analytics?",
+          "options": [
+            "User tracking",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "User tracking"
+        },
+        {
+          "question": "What is crashlytics?",
+          "options": [
+            "Crash reports",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Crash reports"
+        },
+        {
+          "question": "What is CI/CD in project?",
+          "options": [
+            "Automation",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Automation"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is Clean Architecture in projects?",
+          "options": [
+            "Layer separation",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Layer separation"
+        },
+        {
+          "question": "What is SOLID principle?",
+          "options": [
+            "Design rules",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Design rules"
+        },
+        {
+          "question": "What is dependency injection?",
+          "options": [
+            "Loose coupling",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Loose coupling"
+        },
+        {
+          "question": "What is Hilt in projects?",
+          "options": [
+            "DI tool",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "DI tool"
+        },
+        {
+          "question": "What is test-driven development?",
+          "options": [
+            "Write tests first",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Write tests first"
+        },
+        {
+          "question": "What is unit testing?",
+          "options": [
+            "Test small units",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Test small units"
+        },
+        {
+          "question": "What is UI testing?",
+          "options": [
+            "Test interface",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Test interface"
+        },
+        {
+          "question": "What is Espresso?",
+          "options": [
+            "UI testing tool",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI testing tool"
+        },
+        {
+          "question": "What is mocking?",
+          "options": [
+            "Fake objects",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Fake objects"
+        },
+        {
+          "question": "What is scalability?",
+          "options": [
+            "Handle growth",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Handle growth"
+        },
+        {
+          "question": "What is maintainability?",
+          "options": [
+            "Easy updates",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Easy updates"
+        },
+        {
+          "question": "What is performance optimization?",
+          "options": [
+            "Improve speed",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Improve speed"
+        },
+        {
+          "question": "What is memory optimization?",
+          "options": [
+            "Reduce usage",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Reduce usage"
+        },
+        {
+          "question": "What is security best practice?",
+          "options": [
+            "Protect data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Protect data"
+        },
+        {
+          "question": "What is encryption?",
+          "options": [
+            "Secure data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Secure data"
+        },
+        {
+          "question": "What is code review?",
+          "options": [
+            "Check code",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Check code"
+        },
+        {
+          "question": "What is Git version control?",
+          "options": [
+            "Track changes",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Track changes"
+        },
+        {
+          "question": "What is branching?",
+          "options": [
+            "Separate work",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Separate work"
+        },
+        {
+          "question": "What is merge conflict?",
+          "options": [
+            "Code clash",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Code clash"
+        },
+        {
+          "question": "What is deployment pipeline?",
+          "options": [
+            "Automated release",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Automated release"
+        }
+      ]
+    },
+    "Academic learning": {
+      "Beginner": [
+        {
+          "question": "What is Android?",
+          "options": [
+            "Operating System",
+            "Database",
+            "Language",
+            "Browser"
+          ],
+          "answer": "Operating System"
+        },
+        {
+          "question": "Who developed Android?",
+          "options": [
+            "Google",
+            "Microsoft",
+            "Apple",
+            "IBM"
+          ],
+          "answer": "Google"
+        },
+        {
+          "question": "What is Dalvik VM?",
+          "options": [
+            "Virtual Machine",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Virtual Machine"
+        },
+        {
+          "question": "What is ART?",
+          "options": [
+            "Runtime environment",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Runtime environment"
+        },
+        {
+          "question": "What is APK file?",
+          "options": [
+            "App package",
+            "Database",
+            "Thread",
+            "UI"
+          ],
+          "answer": "App package"
+        },
+        {
+          "question": "What is Java used for in Android?",
+          "options": [
+            "App logic",
+            "UI only",
+            "Database only",
+            "Testing"
+          ],
+          "answer": "App logic"
+        },
+        {
+          "question": "What is XML used for?",
+          "options": [
+            "UI design",
+            "Database",
+            "Thread",
+            "Logic"
+          ],
+          "answer": "UI design"
+        },
+        {
+          "question": "What is SDK?",
+          "options": [
+            "Development tools",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Development tools"
+        },
+        {
+          "question": "What is API?",
+          "options": [
+            "Interface",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Interface"
+        },
+        {
+          "question": "What is version control?",
+          "options": [
+            "Track changes",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Track changes"
+        },
+        {
+          "question": "What is Git?",
+          "options": [
+            "Version control tool",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Version control tool"
+        },
+        {
+          "question": "What is repository?",
+          "options": [
+            "Code storage",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Code storage"
+        },
+        {
+          "question": "What is commit?",
+          "options": [
+            "Save changes",
+            "Delete code",
+            "Run code",
+            "UI"
+          ],
+          "answer": "Save changes"
+        },
+        {
+          "question": "What is push?",
+          "options": [
+            "Upload code",
+            "Download code",
+            "Delete code",
+            "Run code"
+          ],
+          "answer": "Upload code"
+        },
+        {
+          "question": "What is pull?",
+          "options": [
+            "Download code",
+            "Upload code",
+            "Delete code",
+            "Run code"
+          ],
+          "answer": "Download code"
+        },
+        {
+          "question": "What is branch?",
+          "options": [
+            "Separate version",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Separate version"
+        },
+        {
+          "question": "What is merge?",
+          "options": [
+            "Combine code",
+            "Delete code",
+            "Run code",
+            "UI"
+          ],
+          "answer": "Combine code"
+        },
+        {
+          "question": "What is IDE?",
+          "options": [
+            "Development environment",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Development environment"
+        },
+        {
+          "question": "What is compiler?",
+          "options": [
+            "Convert code",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Convert code"
+        },
+        {
+          "question": "What is debugging?",
+          "options": [
+            "Fix errors",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Fix errors"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is object-oriented programming?",
+          "options": [
+            "Class-based programming",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Class-based programming"
+        },
+        {
+          "question": "What is class?",
+          "options": [
+            "Blueprint",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Blueprint"
+        },
+        {
+          "question": "What is object?",
+          "options": [
+            "Instance",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Instance"
+        },
+        {
+          "question": "What is inheritance?",
+          "options": [
+            "Reuse code",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Reuse code"
+        },
+        {
+          "question": "What is polymorphism?",
+          "options": [
+            "Multiple forms",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Multiple forms"
+        },
+        {
+          "question": "What is encapsulation?",
+          "options": [
+            "Data hiding",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Data hiding"
+        },
+        {
+          "question": "What is abstraction?",
+          "options": [
+            "Hide complexity",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Hide complexity"
+        },
+        {
+          "question": "What is exception?",
+          "options": [
+            "Runtime error",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Runtime error"
+        },
+        {
+          "question": "What is try-catch?",
+          "options": [
+            "Handle errors",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Handle errors"
+        },
+        {
+          "question": "What is thread?",
+          "options": [
+            "Execution unit",
+            "UI",
+            "DB",
+            "Service"
+          ],
+          "answer": "Execution unit"
+        },
+        {
+          "question": "What is multithreading?",
+          "options": [
+            "Multiple threads",
+            "UI",
+            "DB",
+            "Service"
+          ],
+          "answer": "Multiple threads"
+        },
+        {
+          "question": "What is synchronization?",
+          "options": [
+            "Control threads",
+            "UI",
+            "DB",
+            "Service"
+          ],
+          "answer": "Control threads"
+        },
+        {
+          "question": "What is collection?",
+          "options": [
+            "Data group",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Data group"
+        },
+        {
+          "question": "What is ArrayList?",
+          "options": [
+            "Dynamic array",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Dynamic array"
+        },
+        {
+          "question": "What is HashMap?",
+          "options": [
+            "Key-value store",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Key-value store"
+        },
+        {
+          "question": "What is loop?",
+          "options": [
+            "Repeat code",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Repeat code"
+        },
+        {
+          "question": "What is conditional statement?",
+          "options": [
+            "Decision making",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Decision making"
+        },
+        {
+          "question": "What is recursion?",
+          "options": [
+            "Function calls itself",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Function calls itself"
+        },
+        {
+          "question": "What is algorithm?",
+          "options": [
+            "Step solution",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Step solution"
+        },
+        {
+          "question": "What is data structure?",
+          "options": [
+            "Data organization",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Data organization"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is design pattern?",
+          "options": [
+            "Reusable solution",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Reusable solution"
+        },
+        {
+          "question": "What is Singleton pattern?",
+          "options": [
+            "Single instance",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Single instance"
+        },
+        {
+          "question": "What is Factory pattern?",
+          "options": [
+            "Object creation",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Object creation"
+        },
+        {
+          "question": "What is Observer pattern?",
+          "options": [
+            "Event listener",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Event listener"
+        },
+        {
+          "question": "What is MVC?",
+          "options": [
+            "Architecture pattern",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Architecture pattern"
+        },
+        {
+          "question": "What is MVP?",
+          "options": [
+            "Architecture pattern",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Architecture pattern"
+        },
+        {
+          "question": "What is MVVM?",
+          "options": [
+            "Architecture pattern",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Architecture pattern"
+        },
+        {
+          "question": "What is REST architecture?",
+          "options": [
+            "Web services",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Web services"
+        },
+        {
+          "question": "What is HTTP?",
+          "options": [
+            "Protocol",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Protocol"
+        },
+        {
+          "question": "What is HTTPS?",
+          "options": [
+            "Secure protocol",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Secure protocol"
+        },
+        {
+          "question": "What is JSON?",
+          "options": [
+            "Data format",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Data format"
+        },
+        {
+          "question": "What is XML parsing?",
+          "options": [
+            "Read XML",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Read XML"
+        },
+        {
+          "question": "What is dependency management?",
+          "options": [
+            "Manage libraries",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Manage libraries"
+        },
+        {
+          "question": "What is Gradle dependency?",
+          "options": [
+            "Library import",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Library import"
+        },
+        {
+          "question": "What is build variant?",
+          "options": [
+            "Different builds",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Different builds"
+        },
+        {
+          "question": "What is obfuscation?",
+          "options": [
+            "Hide code",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Hide code"
+        },
+        {
+          "question": "What is performance profiling?",
+          "options": [
+            "Analyze performance",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Analyze performance"
+        },
+        {
+          "question": "What is memory management?",
+          "options": [
+            "Manage RAM",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Manage RAM"
+        },
+        {
+          "question": "What is garbage collection?",
+          "options": [
+            "Free memory",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Free memory"
+        },
+        {
+          "question": "What is scalability?",
+          "options": [
+            "Handle growth",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Handle growth"
+        }
+      ]
+    },
+    "Interview preparation": {
+      "Beginner": [
+        {
+          "question": "What is an Activity in Android?",
+          "options": [
+            "UI screen",
+            "Database",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI screen"
+        },
+        {
+          "question": "What is Intent?",
+          "options": [
+            "Message object",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Message object"
+        },
+        {
+          "question": "What is a Service?",
+          "options": [
+            "Background task",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Background task"
+        },
+        {
+          "question": "What is BroadcastReceiver?",
+          "options": [
+            "Event listener",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Event listener"
+        },
+        {
+          "question": "What is ContentProvider?",
+          "options": [
+            "Data sharing",
+            "UI",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Data sharing"
+        },
+        {
+          "question": "What is AndroidManifest.xml?",
+          "options": [
+            "App config file",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App config file"
+        },
+        {
+          "question": "What is RecyclerView?",
+          "options": [
+            "List UI",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "List UI"
+        },
+        {
+          "question": "What is Adapter?",
+          "options": [
+            "Bind data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Bind data"
+        },
+        {
+          "question": "What is Fragment?",
+          "options": [
+            "Reusable UI",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Reusable UI"
+        },
+        {
+          "question": "What is View?",
+          "options": [
+            "UI element",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "UI element"
+        },
+        {
+          "question": "What is ViewGroup?",
+          "options": [
+            "Container",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Container"
+        },
+        {
+          "question": "What is LinearLayout?",
+          "options": [
+            "Layout type",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Layout type"
+        },
+        {
+          "question": "What is ConstraintLayout?",
+          "options": [
+            "Layout type",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Layout type"
+        },
+        {
+          "question": "What is Toast?",
+          "options": [
+            "Short message",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Short message"
+        },
+        {
+          "question": "What is Logcat?",
+          "options": [
+            "Debug tool",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Debug tool"
+        },
+        {
+          "question": "What is SDK Manager?",
+          "options": [
+            "Manage SDK",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Manage SDK"
+        },
+        {
+          "question": "What is AVD?",
+          "options": [
+            "Emulator",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Emulator"
+        },
+        {
+          "question": "What is Gradle?",
+          "options": [
+            "Build tool",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Build tool"
+        },
+        {
+          "question": "What is APK?",
+          "options": [
+            "App file",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App file"
+        },
+        {
+          "question": "What is Play Store?",
+          "options": [
+            "App distribution",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App distribution"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is Activity lifecycle?",
+          "options": [
+            "State changes",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "State changes"
+        },
+        {
+          "question": "Which method is called first in Activity?",
+          "options": [
+            "onCreate()",
+            "onStart()",
+            "onResume()",
+            "onPause()"
+          ],
+          "answer": "onCreate()"
+        },
+        {
+          "question": "What is Fragment lifecycle?",
+          "options": [
+            "Fragment states",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Fragment states"
+        },
+        {
+          "question": "What is ViewModel?",
+          "options": [
+            "Manage UI data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Manage UI data"
+        },
+        {
+          "question": "What is LiveData?",
+          "options": [
+            "Observable data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Observable data"
+        },
+        {
+          "question": "What is Room Database?",
+          "options": [
+            "SQLite wrapper",
+            "UI",
+            "Thread",
+            "Service"
+          ],
+          "answer": "SQLite wrapper"
+        },
+        {
+          "question": "What is SQLite?",
+          "options": [
+            "Database",
+            "UI",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Database"
+        },
+        {
+          "question": "What is SharedPreferences?",
+          "options": [
+            "Key-value storage",
+            "DB",
+            "Thread",
+            "Service"
+          ],
+          "answer": "Key-value storage"
+        },
+        {
+          "question": "What is Retrofit?",
+          "options": [
+            "Networking library",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Networking library"
+        },
+        {
+          "question": "What is Volley?",
+          "options": [
+            "Networking library",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Networking library"
+        },
+        {
+          "question": "What is Dependency Injection?",
+          "options": [
+            "Provide dependencies",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Provide dependencies"
+        },
+        {
+          "question": "What is Dagger/Hilt?",
+          "options": [
+            "DI framework",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "DI framework"
+        },
+        {
+          "question": "What is Coroutines?",
+          "options": [
+            "Async tasks",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Async tasks"
+        },
+        {
+          "question": "What is AsyncTask?",
+          "options": [
+            "Background task",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Background task"
+        },
+        {
+          "question": "What is Handler?",
+          "options": [
+            "Thread communication",
+            "UI",
+            "DB",
+            "Service"
+          ],
+          "answer": "Thread communication"
+        },
+        {
+          "question": "What is ANR?",
+          "options": [
+            "App not responding",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App not responding"
+        },
+        {
+          "question": "What is ProGuard?",
+          "options": [
+            "Code shrinker",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Code shrinker"
+        },
+        {
+          "question": "What is Jetpack?",
+          "options": [
+            "Libraries suite",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Libraries suite"
+        },
+        {
+          "question": "What is Navigation Component?",
+          "options": [
+            "Manage navigation",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Manage navigation"
+        },
+        {
+          "question": "What is DataBinding?",
+          "options": [
+            "Bind UI data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Bind UI data"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is MVVM architecture?",
+          "options": [
+            "Design pattern",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Design pattern"
+        },
+        {
+          "question": "What is Clean Architecture?",
+          "options": [
+            "Layered design",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Layered design"
+        },
+        {
+          "question": "What is Repository pattern?",
+          "options": [
+            "Data abstraction",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Data abstraction"
+        },
+        {
+          "question": "What is UseCase?",
+          "options": [
+            "Business logic",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Business logic"
+        },
+        {
+          "question": "What is Flow in Kotlin?",
+          "options": [
+            "Async stream",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Async stream"
+        },
+        {
+          "question": "What is StateFlow?",
+          "options": [
+            "State holder",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "State holder"
+        },
+        {
+          "question": "What is SharedFlow?",
+          "options": [
+            "Event stream",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Event stream"
+        },
+        {
+          "question": "What is WorkManager?",
+          "options": [
+            "Background jobs",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Background jobs"
+        },
+        {
+          "question": "What is Paging library?",
+          "options": [
+            "Large data loading",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Large data loading"
+        },
+        {
+          "question": "What is Glide/Picasso?",
+          "options": [
+            "Image loading",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Image loading"
+        },
+        {
+          "question": "What is deep linking?",
+          "options": [
+            "Open specific screen",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Open specific screen"
+        },
+        {
+          "question": "What is Firebase?",
+          "options": [
+            "Backend service",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Backend service"
+        },
+        {
+          "question": "What is push notification?",
+          "options": [
+            "Message alert",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Message alert"
+        },
+        {
+          "question": "What is encryption?",
+          "options": [
+            "Secure data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Secure data"
+        },
+        {
+          "question": "What is SSL?",
+          "options": [
+            "Secure protocol",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Secure protocol"
+        },
+        {
+          "question": "What is caching?",
+          "options": [
+            "Store data temporarily",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Store data temporarily"
+        },
+        {
+          "question": "What is rate limiting?",
+          "options": [
+            "Limit requests",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Limit requests"
+        },
+        {
+          "question": "What is modularization?",
+          "options": [
+            "Divide modules",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Divide modules"
+        },
+        {
+          "question": "What is CI/CD?",
+          "options": [
+            "Automation pipeline",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Automation pipeline"
+        },
+        {
+          "question": "What is code review?",
+          "options": [
+            "Check code quality",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Check code quality"
+        }
+      ]
+    },
+    "Career switch": {
+      "Beginner": [
+        {
+          "question": "What is Android Development?",
+          "options": [
+            "Building mobile apps",
+            "Web design",
+            "Database management",
+            "Networking"
+          ],
+          "answer": "Building mobile apps"
+        },
+        {
+          "question": "Which language is commonly used for Android?",
+          "options": [
+            "Kotlin",
+            "HTML",
+            "CSS",
+            "SQL"
+          ],
+          "answer": "Kotlin"
+        },
+        {
+          "question": "What is Java?",
+          "options": [
+            "Programming language",
+            "UI tool",
+            "Database",
+            "IDE"
+          ],
+          "answer": "Programming language"
+        },
+        {
+          "question": "What is Kotlin?",
+          "options": [
+            "Programming language",
+            "Database",
+            "UI",
+            "IDE"
+          ],
+          "answer": "Programming language"
+        },
+        {
+          "question": "What is Android Studio?",
+          "options": [
+            "IDE",
+            "Database",
+            "Browser",
+            "OS"
+          ],
+          "answer": "IDE"
+        },
+        {
+          "question": "What is XML in Android?",
+          "options": [
+            "UI design",
+            "Database",
+            "Logic",
+            "Thread"
+          ],
+          "answer": "UI design"
+        },
+        {
+          "question": "What is a mobile app?",
+          "options": [
+            "Software on phone",
+            "Hardware",
+            "Network",
+            "Server"
+          ],
+          "answer": "Software on phone"
+        },
+        {
+          "question": "What is UI?",
+          "options": [
+            "User Interface",
+            "Database",
+            "Thread",
+            "Server"
+          ],
+          "answer": "User Interface"
+        },
+        {
+          "question": "What is UX?",
+          "options": [
+            "User Experience",
+            "Database",
+            "Thread",
+            "Server"
+          ],
+          "answer": "User Experience"
+        },
+        {
+          "question": "What is debugging?",
+          "options": [
+            "Fix errors",
+            "Design UI",
+            "Store data",
+            "Run app"
+          ],
+          "answer": "Fix errors"
+        },
+        {
+          "question": "What is version control?",
+          "options": [
+            "Track changes",
+            "Design UI",
+            "Store data",
+            "Run app"
+          ],
+          "answer": "Track changes"
+        },
+        {
+          "question": "What is Git?",
+          "options": [
+            "Version control tool",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Version control tool"
+        },
+        {
+          "question": "What is GitHub?",
+          "options": [
+            "Code hosting platform",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Code hosting platform"
+        },
+        {
+          "question": "What is an emulator?",
+          "options": [
+            "Virtual device",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Virtual device"
+        },
+        {
+          "question": "What is API?",
+          "options": [
+            "Interface",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Interface"
+        },
+        {
+          "question": "What is SDK?",
+          "options": [
+            "Development tools",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Development tools"
+        },
+        {
+          "question": "What is Play Store?",
+          "options": [
+            "App distribution",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "App distribution"
+        },
+        {
+          "question": "What is APK?",
+          "options": [
+            "App file",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "App file"
+        },
+        {
+          "question": "What is open-source?",
+          "options": [
+            "Free code access",
+            "Paid software",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Free code access"
+        },
+        {
+          "question": "What is coding?",
+          "options": [
+            "Writing instructions",
+            "Design UI",
+            "Store data",
+            "Run app"
+          ],
+          "answer": "Writing instructions"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is Activity lifecycle?",
+          "options": [
+            "State changes",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "State changes"
+        },
+        {
+          "question": "What is Fragment?",
+          "options": [
+            "Reusable UI",
+            "DB",
+            "Thread",
+            "Server"
+          ],
+          "answer": "Reusable UI"
+        },
+        {
+          "question": "What is Intent?",
+          "options": [
+            "Communication",
+            "DB",
+            "Thread",
+            "Server"
+          ],
+          "answer": "Communication"
+        },
+        {
+          "question": "What is RecyclerView?",
+          "options": [
+            "List UI",
+            "DB",
+            "Thread",
+            "Server"
+          ],
+          "answer": "List UI"
+        },
+        {
+          "question": "What is Adapter?",
+          "options": [
+            "Bind data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Bind data"
+        },
+        {
+          "question": "What is SQLite?",
+          "options": [
+            "Database",
+            "UI",
+            "Thread",
+            "Server"
+          ],
+          "answer": "Database"
+        },
+        {
+          "question": "What is Room?",
+          "options": [
+            "Database library",
+            "UI",
+            "Thread",
+            "Server"
+          ],
+          "answer": "Database library"
+        },
+        {
+          "question": "What is Retrofit?",
+          "options": [
+            "Networking library",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Networking library"
+        },
+        {
+          "question": "What is API integration?",
+          "options": [
+            "Connect services",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Connect services"
+        },
+        {
+          "question": "What is JSON?",
+          "options": [
+            "Data format",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Data format"
+        },
+        {
+          "question": "What is Gradle?",
+          "options": [
+            "Build tool",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Build tool"
+        },
+        {
+          "question": "What is dependency?",
+          "options": [
+            "External library",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "External library"
+        },
+        {
+          "question": "What is asynchronous programming?",
+          "options": [
+            "Non-blocking",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Non-blocking"
+        },
+        {
+          "question": "What is Coroutine?",
+          "options": [
+            "Async task",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Async task"
+        },
+        {
+          "question": "What is MVVM?",
+          "options": [
+            "Architecture pattern",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Architecture pattern"
+        },
+        {
+          "question": "What is LiveData?",
+          "options": [
+            "Observable data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Observable data"
+        },
+        {
+          "question": "What is ViewModel?",
+          "options": [
+            "Manage UI data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Manage UI data"
+        },
+        {
+          "question": "What is debugging tools?",
+          "options": [
+            "Fix issues",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Fix issues"
+        },
+        {
+          "question": "What is testing?",
+          "options": [
+            "Verify app",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Verify app"
+        },
+        {
+          "question": "What is UI design principle?",
+          "options": [
+            "User-friendly design",
+            "DB",
+            "Thread",
+            "Server"
+          ],
+          "answer": "User-friendly design"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is Clean Architecture?",
+          "options": [
+            "Layered structure",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Layered structure"
+        },
+        {
+          "question": "What is Dependency Injection?",
+          "options": [
+            "Provide dependencies",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Provide dependencies"
+        },
+        {
+          "question": "What is Hilt?",
+          "options": [
+            "DI tool",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "DI tool"
+        },
+        {
+          "question": "What is modularization?",
+          "options": [
+            "Divide app",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Divide app"
+        },
+        {
+          "question": "What is scalability?",
+          "options": [
+            "Handle growth",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Handle growth"
+        },
+        {
+          "question": "What is performance optimization?",
+          "options": [
+            "Improve speed",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Improve speed"
+        },
+        {
+          "question": "What is memory leak?",
+          "options": [
+            "Unused memory",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Unused memory"
+        },
+        {
+          "question": "What is ANR?",
+          "options": [
+            "App freeze",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App freeze"
+        },
+        {
+          "question": "What is CI/CD?",
+          "options": [
+            "Automation pipeline",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Automation pipeline"
+        },
+        {
+          "question": "What is Firebase?",
+          "options": [
+            "Backend service",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Backend service"
+        },
+        {
+          "question": "What is cloud integration?",
+          "options": [
+            "Connect cloud",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Connect cloud"
+        },
+        {
+          "question": "What is security in apps?",
+          "options": [
+            "Protect data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Protect data"
+        },
+        {
+          "question": "What is encryption?",
+          "options": [
+            "Secure data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Secure data"
+        },
+        {
+          "question": "What is Play Store optimization?",
+          "options": [
+            "App ranking",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App ranking"
+        },
+        {
+          "question": "What is monetization?",
+          "options": [
+            "Earn money",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Earn money"
+        },
+        {
+          "question": "What is ads integration?",
+          "options": [
+            "Show ads",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Show ads"
+        },
+        {
+          "question": "What is analytics?",
+          "options": [
+            "User data tracking",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "User data tracking"
+        },
+        {
+          "question": "What is crash reporting?",
+          "options": [
+            "Track errors",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Track errors"
+        },
+        {
+          "question": "What is release management?",
+          "options": [
+            "Manage versions",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Manage versions"
+        },
+        {
+          "question": "What is app maintenance?",
+          "options": [
+            "Update app",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Update app"
+        }
+      ]
+    },
+    "Competitive exams": {
+      "Beginner": [
+        {
+          "question": "What is Android Development?",
+          "options": [
+            "Building mobile apps",
+            "Web design",
+            "Database management",
+            "Networking"
+          ],
+          "answer": "Building mobile apps"
+        },
+        {
+          "question": "Which language is commonly used for Android?",
+          "options": [
+            "Kotlin",
+            "HTML",
+            "CSS",
+            "SQL"
+          ],
+          "answer": "Kotlin"
+        },
+        {
+          "question": "What is Java?",
+          "options": [
+            "Programming language",
+            "UI tool",
+            "Database",
+            "IDE"
+          ],
+          "answer": "Programming language"
+        },
+        {
+          "question": "What is Kotlin?",
+          "options": [
+            "Programming language",
+            "Database",
+            "UI",
+            "IDE"
+          ],
+          "answer": "Programming language"
+        },
+        {
+          "question": "What is Android Studio?",
+          "options": [
+            "IDE",
+            "Database",
+            "Browser",
+            "OS"
+          ],
+          "answer": "IDE"
+        },
+        {
+          "question": "What is XML in Android?",
+          "options": [
+            "UI design",
+            "Database",
+            "Logic",
+            "Thread"
+          ],
+          "answer": "UI design"
+        },
+        {
+          "question": "What is a mobile app?",
+          "options": [
+            "Software on phone",
+            "Hardware",
+            "Network",
+            "Server"
+          ],
+          "answer": "Software on phone"
+        },
+        {
+          "question": "What is UI?",
+          "options": [
+            "User Interface",
+            "Database",
+            "Thread",
+            "Server"
+          ],
+          "answer": "User Interface"
+        },
+        {
+          "question": "What is UX?",
+          "options": [
+            "User Experience",
+            "Database",
+            "Thread",
+            "Server"
+          ],
+          "answer": "User Experience"
+        },
+        {
+          "question": "What is debugging?",
+          "options": [
+            "Fix errors",
+            "Design UI",
+            "Store data",
+            "Run app"
+          ],
+          "answer": "Fix errors"
+        },
+        {
+          "question": "What is version control?",
+          "options": [
+            "Track changes",
+            "Design UI",
+            "Store data",
+            "Run app"
+          ],
+          "answer": "Track changes"
+        },
+        {
+          "question": "What is Git?",
+          "options": [
+            "Version control tool",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Version control tool"
+        },
+        {
+          "question": "What is GitHub?",
+          "options": [
+            "Code hosting platform",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Code hosting platform"
+        },
+        {
+          "question": "What is an emulator?",
+          "options": [
+            "Virtual device",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Virtual device"
+        },
+        {
+          "question": "What is API?",
+          "options": [
+            "Interface",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Interface"
+        },
+        {
+          "question": "What is SDK?",
+          "options": [
+            "Development tools",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Development tools"
+        },
+        {
+          "question": "What is Play Store?",
+          "options": [
+            "App distribution",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "App distribution"
+        },
+        {
+          "question": "What is APK?",
+          "options": [
+            "App file",
+            "Database",
+            "UI",
+            "Thread"
+          ],
+          "answer": "App file"
+        },
+        {
+          "question": "What is open-source?",
+          "options": [
+            "Free code access",
+            "Paid software",
+            "UI",
+            "Thread"
+          ],
+          "answer": "Free code access"
+        },
+        {
+          "question": "What is coding?",
+          "options": [
+            "Writing instructions",
+            "Design UI",
+            "Store data",
+            "Run app"
+          ],
+          "answer": "Writing instructions"
+        }
+      ],
+      "Intermediate": [
+        {
+          "question": "What is Activity lifecycle?",
+          "options": [
+            "State changes",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "State changes"
+        },
+        {
+          "question": "What is Fragment?",
+          "options": [
+            "Reusable UI",
+            "DB",
+            "Thread",
+            "Server"
+          ],
+          "answer": "Reusable UI"
+        },
+        {
+          "question": "What is Intent?",
+          "options": [
+            "Communication",
+            "DB",
+            "Thread",
+            "Server"
+          ],
+          "answer": "Communication"
+        },
+        {
+          "question": "What is RecyclerView?",
+          "options": [
+            "List UI",
+            "DB",
+            "Thread",
+            "Server"
+          ],
+          "answer": "List UI"
+        },
+        {
+          "question": "What is Adapter?",
+          "options": [
+            "Bind data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Bind data"
+        },
+        {
+          "question": "What is SQLite?",
+          "options": [
+            "Database",
+            "UI",
+            "Thread",
+            "Server"
+          ],
+          "answer": "Database"
+        },
+        {
+          "question": "What is Room?",
+          "options": [
+            "Database library",
+            "UI",
+            "Thread",
+            "Server"
+          ],
+          "answer": "Database library"
+        },
+        {
+          "question": "What is Retrofit?",
+          "options": [
+            "Networking library",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Networking library"
+        },
+        {
+          "question": "What is API integration?",
+          "options": [
+            "Connect services",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Connect services"
+        },
+        {
+          "question": "What is JSON?",
+          "options": [
+            "Data format",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Data format"
+        },
+        {
+          "question": "What is Gradle?",
+          "options": [
+            "Build tool",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Build tool"
+        },
+        {
+          "question": "What is dependency?",
+          "options": [
+            "External library",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "External library"
+        },
+        {
+          "question": "What is asynchronous programming?",
+          "options": [
+            "Non-blocking",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Non-blocking"
+        },
+        {
+          "question": "What is Coroutine?",
+          "options": [
+            "Async task",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Async task"
+        },
+        {
+          "question": "What is MVVM?",
+          "options": [
+            "Architecture pattern",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Architecture pattern"
+        },
+        {
+          "question": "What is LiveData?",
+          "options": [
+            "Observable data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Observable data"
+        },
+        {
+          "question": "What is ViewModel?",
+          "options": [
+            "Manage UI data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Manage UI data"
+        },
+        {
+          "question": "What is debugging tools?",
+          "options": [
+            "Fix issues",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Fix issues"
+        },
+        {
+          "question": "What is testing?",
+          "options": [
+            "Verify app",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Verify app"
+        },
+        {
+          "question": "What is UI design principle?",
+          "options": [
+            "User-friendly design",
+            "DB",
+            "Thread",
+            "Server"
+          ],
+          "answer": "User-friendly design"
+        }
+      ],
+      "Advanced": [
+        {
+          "question": "What is Clean Architecture?",
+          "options": [
+            "Layered structure",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Layered structure"
+        },
+        {
+          "question": "What is Dependency Injection?",
+          "options": [
+            "Provide dependencies",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Provide dependencies"
+        },
+        {
+          "question": "What is Hilt?",
+          "options": [
+            "DI tool",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "DI tool"
+        },
+        {
+          "question": "What is modularization?",
+          "options": [
+            "Divide app",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Divide app"
+        },
+        {
+          "question": "What is scalability?",
+          "options": [
+            "Handle growth",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Handle growth"
+        },
+        {
+          "question": "What is performance optimization?",
+          "options": [
+            "Improve speed",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Improve speed"
+        },
+        {
+          "question": "What is memory leak?",
+          "options": [
+            "Unused memory",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Unused memory"
+        },
+        {
+          "question": "What is ANR?",
+          "options": [
+            "App freeze",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App freeze"
+        },
+        {
+          "question": "What is CI/CD?",
+          "options": [
+            "Automation pipeline",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Automation pipeline"
+        },
+        {
+          "question": "What is Firebase?",
+          "options": [
+            "Backend service",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Backend service"
+        },
+        {
+          "question": "What is cloud integration?",
+          "options": [
+            "Connect cloud",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Connect cloud"
+        },
+        {
+          "question": "What is security in apps?",
+          "options": [
+            "Protect data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Protect data"
+        },
+        {
+          "question": "What is encryption?",
+          "options": [
+            "Secure data",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Secure data"
+        },
+        {
+          "question": "What is Play Store optimization?",
+          "options": [
+            "App ranking",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "App ranking"
+        },
+        {
+          "question": "What is monetization?",
+          "options": [
+            "Earn money",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Earn money"
+        },
+        {
+          "question": "What is ads integration?",
+          "options": [
+            "Show ads",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Show ads"
+        },
+        {
+          "question": "What is analytics?",
+          "options": [
+            "User data tracking",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "User data tracking"
+        },
+        {
+          "question": "What is crash reporting?",
+          "options": [
+            "Track errors",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Track errors"
+        },
+        {
+          "question": "What is release management?",
+          "options": [
+            "Manage versions",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Manage versions"
+        },
+        {
+          "question": "What is app maintenance?",
+          "options": [
+            "Update app",
+            "UI",
+            "DB",
+            "Thread"
+          ],
+          "answer": "Update app"
+        }
+      ]
+    }
+  }
+}
